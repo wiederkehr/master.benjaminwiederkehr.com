@@ -1,0 +1,10 @@
+Title: Weekly Review No. 1
+----
+Date: 12-02-26
+----
+Updated: 12-02-26
+----
+Text:
+The start into the first semester was an intense experience. After a general introduction, we got immediately engaged in our workshop with the topic of GloCal, bringing local efforts into a global perspective. The workload of the week was big, the timeframe short and the collaboration with students from other fields seemed uncertain. I had the pleasure to collaborate with two students from the Field of Excellence Communication with a focus on knowledge visualisation and a fellow student from the interaction design program. Under the guidance of our workshop leader, Paul Beardsley of (link:http://www.disneyresearch.com/labs/zurich/index.htm text:Disney Research Zürich), we developed the FloraNet concept. It's a global repository of crowd-collected biological data, that will be put to good use for citizens, researchers and governments. My responsibility in this project was to design a conceptual interface for mobile, tablet and desktop devices. For the presentation on Friday, the whole group put together their ideas into one presentation that was well perceived by the students, tutors and workshop leaders.
+
+Beside the workshop at the University I was invited to speak at the Lift conference about the Ville Vivante project. My talk was embedded into the mobile session on Thursday morning and the talk was favorably perceived by the audience. I had the pleasure to meet with (link:http://liftconference.com/person/david-rowan/ text:David Rowan) of WIRED Magazine and (link:http://liftconference.com/person/nick-heller text:Nick Heller) of Google Europe, both of them are super fine fellows. Thanks to (link:http://nearfuturelaboratory.com/about/fabien-girardin text:Fabien Girardin) from the Near Future Lab, I got a sneak preview into the new (link:http://www.quadrigram.com/ text:Quardigram) visualization application. This looks like a toy I should play around with some more.

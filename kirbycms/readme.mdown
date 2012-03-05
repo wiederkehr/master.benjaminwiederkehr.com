@@ -34,6 +34,10 @@ Afterwards make sure to also set the subfolder name:
 
 You probably also need to adjust the RewriteBase in the .htaccess file if you want to use mod_rewrite. You will find more information about all this in the default config file and the htaccess file.
 
+As the server is already running, just open the site with:
+
+http://localhost/~Benjamin/BenjaminWiederkehr/06%20Code/master.benjaminwiederkehr.com/kirbycms/
+
 
 ### URL Rewriting
 

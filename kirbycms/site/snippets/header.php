@@ -18,7 +18,7 @@
   <!-- ——————————————————————————————————————————————————————————————————— CSS -->
   <link rel="stylesheet" href="http://benjaminwiederkehr.com/assets/css/global/screen.css" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="http://benjaminwiederkehr.com/assets/css/global/print.css" type="text/css" media="print" />
-  <link rel="stylesheet" href="http://benjaminwiederkehr.com/assets/css/master.css" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="<?php echo url() ?>/assets/stylesheets/master.css" type="text/css" media="screen, projection" />
   <?php foreach($page->files()->findByExtension('css') as $css): ?>
   <?php echo css($css->url()) ?>
   <?php endforeach ?>
@@ -27,9 +27,9 @@
     <![endif]-->
   <!-- ——————————————————————————————————————————————————————————————————— JS -->
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="http://benjaminwiederkehr.com/assets/js/cufon-yui.js"></script>
-  <script type="text/javascript" src="http://benjaminwiederkehr.com/assets/js/netto_350-netto_700.font.js"></script>
   <script type="text/javascript" src="http://benjaminwiederkehr.com/assets/js/jquery.footnotes.1-2-2.min.js"></script>
+  <script type="text/javascript" src="http://use.typekit.com/aea1puq.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
   <script type="text/javascript" src="http://benjaminwiederkehr.com/assets/js/master.js"></script>
   <?php foreach($page->files()->findByExtension('js') as $js): ?>
   <?php echo js($js->url()) ?>

@@ -21,7 +21,7 @@
       <dt>Partner</dt><dd><a href="http://interactivethings.com/">Interactive Things</a></dd>
     </dl>
   </div>
-  <!-- <div class="sidebar_title">
+  <div class="sidebar_title">
       <h3 class="ui">Navigation</h3>
     </div>
     <div class="sidebar_content">
@@ -30,5 +30,5 @@
         <li><a<?php echo ($p->isOpen()) ? ' class="active"' : '' ?> href="<?php echo $p->url() ?>"><?php echo html($p->title()) ?></a></li>
         <?php endforeach ?>
       </ul>
-    </div> -->
+    </div>
 </div>

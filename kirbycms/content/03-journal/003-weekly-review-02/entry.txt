@@ -1,0 +1,38 @@
+Title: Weekly Review No. 2
+----
+Date: 12-03-03
+----
+Updated: 12-03-03
+----
+Text:
+In the Minor lecture on Monday Stephan Trüby introduced an very interesting thought: Post-reflected design is more effective than design guided by theory. Stephan invited us to get started with what we are excited about and eventually reflect on it and reverse engineer the underlying theory. This is a process I haven't considered in my previous work and is something I'd like to experiment with. We also had the chance to listen to Master of Arts in Design alumni and they shared some of their epxeriences with us. Some thoughts I found very intruiging are:
+
+* Collect and define key terms up front. The resulting taxonomy should include technical as well as fundamental terms.
+
+* Explore different theoretical foundations and let these influence your design work.
+
+* Get in touch with the user group early on and collect the requirements to form the hypothesis.
+
+* Always test and evaluate your prototypes with the user group.
+
+* Collect input and feedback from experts from related but different fields.
+
+On Tuesday and Wednesday the interaction design students had an intense workshop with Gerhard Buurman where we dissected our initial proposals to reveal the underlying problems. We then went of the put the findings down into a topic introduction tht we presented to the interaction design experts Karmen, Moritz, Max and Jürgen on Friday. After the two day workshop and the subsequent two days, I was able to articulate a first version of my vision and hypothesis as follows:
+
+Vision:
+**I want to facilitate an informed, considered, critical and trained interaction with money.**
+
+Hypothesis:
+**Can visual tools, that allow for the exploration, evaluation and communication of financial information, lead to a more mature relationship between people and banks?**
+
+During the discussion of my topic introduction a few interesting questions came to light:
+
+* How is effort mapped to the balance between trust and knowledge? And how will the different user archetypes be placed on this scale?
+
+* Questions for the user group: How much time are you willing to invest? How much effort are you willing to make?
+
+* Potentially the trust in the bank isn't really the issue, but the lack of understanding how your money works when you store it in a bank. Where does my money work? What's the impact of this work? Could this understanding lead to more trust?
+
+* As the transformation from data to information can be done with an algorithm and the transformation between information and knowledge needs a human being, this could be the place to support the people understand the information better.
+
+In hindsight, this week was really about better understanding the reality, the underlying problems and my vision for this project. Putting the first draft of my hypothesis down on paper helped me order my thoughts and define the next steps I'd like to take.

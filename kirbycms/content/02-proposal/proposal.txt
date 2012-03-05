@@ -1,10 +1,10 @@
-Title: Proposal 
+Title: Proposal
 ----
 Date: 12-01-09
 ----
-Updated: 12-01-09
+Updated: 12-03-02
 ----
-Version: 1.0
+Version: 1.1
 ----
 Footnotes: true
 ----
@@ -28,7 +28,7 @@ My goal is to demonstrate feasible possibilities how transparency can be created
 My research and implementation work will consist of the following five phases, which have proved successful in my work as User Experience Designer in recent years.
 
 ### 1. Exploration
-The analysis of the field and the user group and their properties is the basis for all subsequent steps. The basic understanding of the technical matter and the derived archetypes of users (personas) enable informed design decisions later on.
+The analysis of the field with its' theories and the user group with their properties is the basis for all subsequent steps. The basic understanding of the technical and theoretical matter and the derived archetypes of users (personas) enable informed design decisions later on.
 
 ### 2. Definition
 The articulation of a clear vision based on the issues that were identified in the exploration phase, forms the strategy for the coming. Accordingly, I create a schedule, and define the technical and content scope and its delimitation.
