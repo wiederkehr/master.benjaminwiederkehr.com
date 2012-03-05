@@ -1,4 +1,4 @@
-Title: Proposal 
+Title: Home 
 ----
 Date: 12-01-09
 ----
@@ -9,45 +9,4 @@ Version: 1.0
 Footnotes: true
 ----
 
-Text: 
-
-## Visual tools for the exploration, evaluation and communication of financial information.
-
-We experience the multifaceted impact  of money on our society on a daily basis. Whether it's controlling the household budget, planning the financing of education and provision or investing in products and markets. The complexity of structure, process and dynamics increasingly deprives us of our capacity to act and brings us into a dependency between layman and expert. Although we all live in the radius of influence of financial markets, there is a diverging gap between literacy and illiteracy.
-
-I will explore how interactive and dynamic mapping of complex structures and processes can support understanding. Building on the success of visual means of communication, I will evaluate the successful use of direct interaction with a presentation by the user. Can we establish an understanding, which is intuitive and memorable, by demonstrating action and reaction? Here, the needs, expectations, skills and abilities of the user group play a central role. My aim is to design a user-centric interface to information and interaction.
-
-## Motivation
-
-I believe that it's the responsibility of our tools to adapt inaccessible things to our human limitations. Microscopes adapt tiny structures so that we can see them with our own eyes. Tweezers adapt tiny objects so that we can manipulate them with our own hands. Calculators adapt huge numbers so we can be manipulated with our own brains. I'm imagining a tool that adapts complex dynamics so they can be experienced and reasoned about with our own brain. Thereby, the unattainable becomes possible and the unimaginable becomes evident. <span class="footnote">Inspired by (link: http://worrydream.com/ text: Bret Victor), creator, teacher, researcher and writer of too many good things to mention them all.</span>
-
-My goal is to demonstrate feasible possibilities how transparency can be created and therefore knowledge can be democratized. I am aware that the abstraction and simplification of the complex nature of financial systems does not lead to a more conscious use of money. I would like to pursue the question of whether a coherent representation can show the complexity, dependency, dynamics and unpredictability of the asymmetry of information and thereby lead to a more critical examination. In addition to the content models for communicating financial information such as risk profiles or product performance, also an evaluation of the visual models is to occur in my work. I am looking for contradictions, failure and misinterpretation in the applied forms of representation. The findings shall broaden the horizont and sharpen the contours in my creative work.
-
-## Approach
-
-My research and implementation work will consist of the following five phases, which have proved successful in my work as User Experience Designer in recent years.
-
-### 1. Exploration
-The analysis of the field and the user group and their properties is the basis for all subsequent steps. The basic understanding of the technical matter and the derived archetypes of users (personas) enable informed design decisions later on.
-
-### 2. Definition
-The articulation of a clear vision based on the issues that were identified in the exploration phase, forms the strategy for the coming. Accordingly, I create a schedule, and define the technical and content scope and its delimitation.
-
-### 3. Hypothesis
-In a user-centered design process, I develop concepts in order to explore the scope for solutions. Different tasks of the user group require individual forms of visualization and interaction that are being developed as a series of prototypes.
-
-### 4. Evaluation
-The proposed solutions are evaluated in user tests at different levels of fidelity (paper prototypes, wireframes, mockups, interactive prototypes) with real people on their application potential. I gain additional insights in the examination of the concepts by experts from the two fields of design and finance.
-
-### 5. Synthesis
-Through iterative design work and by taking into account the results of the evaluation phase, the most potent concepts will be developed further into functional visualizations and interfaces. These form the result of my research and also show exemplary real-world applications.
-
-The visual tools are optimized for use in the exploration, evaluation and communication of financial information. However, I hope to be able to draw conclusions about the potential for use in other domains. The financial information thus serve as an example of a complex subject area that has a set of certain attributes. These attributes include an extensive taxonomy, a variety of different user groups that require specific means of access, and a polyvalent relevance in our information society. We find other relevant subject areas in healthcare, justice, politics, and economics among others.
-
-## Context
-
-### Academic Partners
-The project-oriented Master of Arts in Design program at the Zürich University of the Arts <span class="footnote">The Field of Excellence &laquo;Interaction&raquo; of the (link:http://master.design.zhdk.ch/en/ text:Master of Arts in Design)"> at Zürich University of the Arts specialises in the training of versatile experts in the area of interaction and gaming.</span> is unique in its kind. The interdisciplinary exchange with students from different fields of excellence and supplemental curriculum from the minor studies offer the perfect environment for an in-depth design research. The proximity to the Swiss Design Institute for Finance and Banking <span class="footnote">The (link:http://sdfb.ch/en text:Swiss Design Institute for Finance and Banking ) is an interuniversity competence center for design, conducting theoretical and applied research to optimize the relationship between financial service providers and their customers.</span> provides a repository of experience and expertise, which allows me to build on a well-established foundation and existing results. I will be mentored by Prof. Dr. Gerhard M. Buurman <span class="footnote">(link:http://gmb.zhdk.ch/ text:Prof. Dr. Gerhard M. Buurman ) is currently reinventing the ethos, pathos and logos of design research.</span>. He established the Interaction Design course at the ZHdK in 2000 and co-founded the Swiss Design Institute for Finance and Banking in 2007 and is currently the director of the Institute for Design Research. Furthermore, I look forward to the competent support of the experts Karmen Franinovic, Max Reiner, and J&uuml;rgen Sp&auml;th. I receive additional technical support from Prof. Andrew Vande Moere <span class="footnote">(link:http://infosthetics.com/ text:Prof. Andrew Vande Moere ) is researcher and writer in the area of data visualization, interaction design, physical computing and media architecture.</span> of the KU Leuven University in Belgium and Prof. Michael Stoll <span class="footnote">(link:http://www.hs-augsburg.de/~mstoll/ text:Prof. Michael Stoll ) is professor for information design and curator of a huge collection of information graphics from the past.</span> of the University of Augsburg in Germany.
-
-### Business Partners
-Interactive Things <span class="footnote">(link:http://interactivethings.com/ text:Interactive Things ) works with international clients on visualizations and applications that are understandable, usable, enjoyable and actionable.</span>, a User Experience Design and Data Visualization Studio, which I have co-founded with my partners Christian Siegrist and Jeremy Stucki, acts as a business partner in my master's project. The inspiration that drives my research comes from our daily work on visualizations and applications for stakeholders in the financial sector such as Globalance Bank, Raiffeisen Bank, Clariden Leu and HelloWallet. We recognized the need for clearer and more accessible customer information and interaction models and now want to bring together theory and practice in one comprehensive piece of work.
+Text: home
