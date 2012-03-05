@@ -98,8 +98,8 @@ RewriteBase /subfolder
 
 // c::set('subfolder', false);
 
-c::set('subfolder', '~Benjamin/BenjaminWiederkehr/06%20Code/master.benjaminwiederkehr.com/kirbycms');
-c::set('url', 'http://localhost/~Benjamin/BenjaminWiederkehr/06%20Code/master.benjaminwiederkehr.com/kirbycms');
+c::set('subfolder', '~Benjamin/BenjaminWiederkehr/06%20Code/master.benjaminwiederkehr.com');
+c::set('url', 'http://localhost/~Benjamin/BenjaminWiederkehr/06%20Code/master.benjaminwiederkehr.com');
 
 
 /* 
