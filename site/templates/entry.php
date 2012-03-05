@@ -3,7 +3,7 @@
 <!-- ——————————————————————————————————————————————————————————————————— Content -->
 <div id="content" class="span-17 last">
   <div class="span-17 last">
-    <h3 class="ui"><a href="<?php echo url('journal') ?>" title="Journal">Journal</a> » Entry</h3>
+    <h3 class="ui"><a href="<?php echo url('journal') ?>" title="Journal">Journal</a> &raquo; Entry</h3>
   </div>
   <div class="span-17 last">
     <!-- ——————————————————————————————————————————————————————————————————— Post -->
