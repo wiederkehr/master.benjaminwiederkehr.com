@@ -1,5 +1,8 @@
 <?php
 
+// direct access protection
+if(!defined('KIRBY')) die('Direct access is not allowed');
+
 class cache {
   
   static function file($file) {
@@ -12,8 +15,12 @@ class cache {
     if($content) f::write(self::file($file), $content);      
   }
   
-  static function get($file, $raw=false) {
+  static function get($file, $raw=false, $expires=false) {
     if(!c::get('cache')) return false;
+    
+    // check for an expired cache 
+    if($expires && self::expired($file, $expires)) return false;
+
     $content = f::read(self::file($file));
     if($raw == false) $content = @unserialize($content);
     return $content;
@@ -32,6 +39,10 @@ class cache {
   static function modified($file) {
     if(!c::get('cache')) return false;
     return @filectime(self::file($file));
+  }
+  
+  static function expired($file, $time=false) {
+    return (cache::modified($file) < time()-$time) ? true : false;
   }
 
 }

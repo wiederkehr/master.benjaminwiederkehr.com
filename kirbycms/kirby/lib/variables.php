@@ -1,5 +1,8 @@
 <?php
 
+// direct access protection
+if(!defined('KIRBY')) die('Direct access is not allowed');
+
 class variable {
   
   function __construct($value, $parent=false) {
@@ -20,18 +23,21 @@ class variables extends file {
     parent::__construct($array);
     
     $vars = self::fetch($this->root);
-    
-    foreach($vars as $key => $var) {
-      $this->_['variables'][$key] = $var;
+    $this->_['variables'] = array();
+
+    if($vars) {
+      foreach($vars as $key => $var) {
+        $this->_['variables'][$key] = $var;
+      }
     }
-            
+                
   }
   
   static function fetch($file) {
     if(!file_exists($file)) return array();
     $content  = f::read($file); 
     $content  = str_replace("\xEF\xBB\xBF", '', $content);    
-    $sections = preg_split('!\R[-]{4,}!', $content);
+    $sections = preg_split('![\r\n]+[-]{4,}!i', $content);
     $data     = array();
     foreach($sections AS $s) {
       $parts = explode(':', $s);  

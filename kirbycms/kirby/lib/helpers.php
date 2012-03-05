@@ -1,5 +1,8 @@
 <?php
 
+// direct access protection
+if(!defined('KIRBY')) die('Direct access is not allowed');
+
 // easy url builder
 function url($uri=false) {
   if(c::get('rewrite')) {
@@ -7,7 +10,7 @@ function url($uri=false) {
   } else {
     if(!$uri) return c::get('url');
     if(is_file(c::get('root') . '/' . $uri)) {
-      return c::get('url') . '/' . $uri;    
+      return c::get('url') . '/' . $uri;
     } else {
       return c::get('url') . '/index.php/' . $uri;
     }
@@ -15,7 +18,7 @@ function url($uri=false) {
 }
 
 function u($uri=false) {
-  return url($uri);  
+  return url($uri);
 }
 
 // return the current url with all
@@ -37,19 +40,29 @@ function notFound() {
 
 // embed a template snippet from the snippet folder
 function snippet($snippet, $data=array(), $return=false) {
-  tpl::loadFile(c::get('root.snippets') . '/' . $snippet . '.php', $data, $return);
+  return tpl::loadFile(c::get('root.snippets') . '/' . $snippet . '.php', $data, $return);
 }
 
 // embed a stylesheet tag
-function css($url, $media='all') {
+function css($url, $media=false) {
   $url = (str::contains($url, 'http://') || str::contains($url, 'https://')) ? $url : url(ltrim($url, '/'));
-  return '<link rel="stylesheet" type="text/css" media="' . $media . '" href="' . $url . '" />' . "\n";
+  if(!empty($media)) {
+    return '<link rel="stylesheet" media="' . $media . '" href="' . $url . '" />' . "\n";
+  } else {
+    return '<link rel="stylesheet" href="' . $url . '" />' . "\n";
+  }
 }
 
 // embed a js tag
 function js($url) {
   $url = (str::contains($url, 'http://') || str::contains($url, 'https://')) ? $url : url(ltrim($url, '/'));
-  return '<script type="text/javascript" src="' . $url . '"></script>' . "\n";
+  return '<script src="' . $url . '"></script>' . "\n";
+}
+
+// fetch a param from the URI
+function param($key, $default=false) {
+  global $site;
+  return $site->uri->params($key, $default);
 }
 
 ?>

@@ -1,5 +1,8 @@
 <?php
 
+// direct access protection
+if(!defined('KIRBY')) die('Direct access is not allowed');
+
 class file extends obj {
   
   function __toString() {
@@ -54,7 +57,7 @@ class file extends obj {
 
     $info = array(
       'size' => f::size($this->root),
-      'mime' => @mime_content_type($this->root)
+      'mime' => (function_exists('mime_content_type')) ? @mime_content_type($this->root) : false
     );
     
     // set the nice size
@@ -400,8 +403,8 @@ class files extends obj {
     return f::nice_size($this->totalSize());
   }
 
-  function sortBy($field, $direction='asc') {
-    $files = a::sort($this->_, $field . ' ' . $direction);
+  function sortBy($field, $direction='asc', $method=SORT_REGULAR) {
+    $files = a::sort($this->_, $field, $direction, $method);
     return new files($files);
   }
 

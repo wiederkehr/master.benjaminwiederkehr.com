@@ -1,5 +1,8 @@
 <?php
 
+// direct access protection
+if(!defined('KIRBY')) die('Direct access is not allowed');
+
 class site extends obj {
   
   var $modified = false;
@@ -103,7 +106,21 @@ class site extends obj {
         exit();
         
       }    
-    
+      
+      // if you want to store subfolders in the homefolder for blog articles i.e. and you
+      // want urls like http://yourdomain.com/article-title you can set 
+      // RedirectMatch 301 ^/home/(.*)$ /$1 in your htaccess file and those
+      // next lines will take care of delivering the right pages. 
+      $uri = c::get('home') . '/' . $this->uri->path();
+        
+      if($redirected = $this->pages()->find($uri)) {
+        if($redirected->uri() == $uri) {
+          $page = $redirected;
+          $this->pages->active = $page;
+          $this->uri = new uri($uri);
+        }
+      }
+      
     }
     
     // redirect file urls (file:image.jpg)
@@ -236,9 +253,12 @@ class site extends obj {
   
     $file = c::get('root.content') . '/site.txt';
     $info = variables::fetch($file);
-    
-    $this->_ = array_merge($this->_, $info);
 
+    // merge the current site info with the additional
+    // info from the info file(s)    
+    $this->variables = $info;
+    $this->_ = array_merge($this->_, $info);  
+    
   }
   
   function modified() {
