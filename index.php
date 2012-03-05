@@ -28,7 +28,8 @@ server
 
 */
 
-$rootKirby = $root . '/kirby';
+// $rootKirby = $root . '/kirby';
+$rootKirby = $root . '/app';
 
 
 
