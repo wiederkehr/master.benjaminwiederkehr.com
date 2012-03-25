@@ -48,8 +48,8 @@ h3.ui a:hover	{ color: #444; }
 #sidebar ul li a:hover	{ text-decoration: none; border-bottom: 1px solid #bbb; outline: none;}
 #sidebar ul li a.active	{ border-bottom: 1px solid #bbb; color: #444;}
 #sidebar dl							{ font-size: 11px; margin: 0 0 40px;}
-#sidebar dt							{ float: none; }
-#sidebar dd							{ margin-bottom: 1em;}
+#sidebar dt							{ float: none; margin-top: 1em;}
+#sidebar dd							{ }
 
 .sidebar_content p			{ color: #bbb;}
 
