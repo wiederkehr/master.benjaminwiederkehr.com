@@ -1,0 +1,27 @@
+Title: Review of My Research Residence in the United States
+----
+Date: 12-03-23
+----
+Updated: 12-03-23
+----
+Text:
+I had a very intense and exciting time in the United States. After a busy schedule at the SXSW festival, where I attended a great selection of sessions to learn from the best in our field, I spend my time in San Francisco with in-depth conversations, educational events and reflecting on the learned things. Following are a few of the most remarkable happenings and outcomes.
+
+## People
+I had great encounters with people from the industry and from research. This included Eric Rodenbeck, founder and CEO of (link:http://stamen.com text:Stamen), a design studio focused on data visualization and cartography. Ben Cerveny, founder and CEO of (link:http://bloom.io text:Bloom) who works on data driven exploratory toys for tablet devices. (link:http://bost.ocks.org/mike/ text:Mike Bostock), data scientist at Square and creator of the visualization libraries Protovis, Cube, D3 and Tessarac. David Hogue, founder and director of (link:http://www.fluid.com/company/leadership/david_hogue text:Fluid) experience design studio. Omar Green, the director of strategic mobile initiatives at (link:http://www.intuit.com/ text:Intuit). (link:http://worrydream.com/ text:Bret Victor), academic researcher and inventor in the field of interactive tools and visualizations.
+
+I am happy to note that Eric Rodenbeck, Ben Cerveny and Mike Bostock have offered to act as external advisors for my research project.
+
+## Education
+I learned a lot at the sessions and events I attended. Most notably from the introduction of Intuit's strategy for their mobile wallet solution delivered by Omar Green at SXSW. They follow similar principles that I intended to include in my work and therefor I was able to learn a lot about their more advanced and more progressed status. Bret Victor's talk about his work for the book Our Choice by Al Gore revealed a lot of thoughts and principles that drove the design and implementation of the interactive information graphics or story charts as Bret refers to them. Furthermore, David Hogue's fabulous talk about designing for behavior explained even more the basics and also more advanced lessons we need to consider when we strive to change our user's behavior.
+
+## Talks
+Beside the planned panel at SXSW together with Adam Bly, Leslie Bradshaw, Moritz Stefaner and Tal Siach, I was invited to speak on a few other occasions. I spoke at the InfoCamp organized by the Information School of the Berkeley University about the process of creating interactive data visualizations. I presented Interactive Things' work to the design team of LinkedIn during their office hours. Most notably, I gave an introduction to data visualization on tablet devices at the Data Vis Meetup organized and hosted by Trulia. What was remarkable about this event was the number and skillfulness of the attendees. People from Bloom, Stamen, Trulia, LinkedIn, Stanford and Berkeley were present.
+
+## Thoughts
+The subject of my research and the object that I want to work on, got much clearer thanks to many discussions with experts in this field of visualization and interface design. The next steps for me will be the following.
+
+1. Mapping the field of personal financial information with all its' touch points and attributes to put the core topic into context of related fields.
+2. Articulation and conceptualization of the defined principles I wan't to include in my creative work. The principles currently defined are Visual Timescale, Direct Interaction, Directed Interaction, Testable Counterfactuals, Sharable Financial Object.
+3. Definition of the user group and evaluation of the use cases.
+4. Contact to financial institutions and financial service providers. This includes Postfinance, Intuit, Globalance Bank, ReadForZero and Hoi.
