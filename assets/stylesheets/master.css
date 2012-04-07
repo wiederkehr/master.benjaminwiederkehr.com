@@ -30,7 +30,7 @@ h3.ui a:hover	{ color: #444; }
 
 /* HOME
 /////////////////////////////////////////////////////////////////*/
-.introduction { border-top: 3px solid #d4d5d3; }
+.introduction { border-top: 3px solid #d4d5d3; padding: 40px 0;}
 
 /* JOURNAL
 /////////////////////////////////////////////////////////////////*/

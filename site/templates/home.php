@@ -3,21 +3,21 @@
 <!-- ——————————————————————————————————————————————————————————————————— Content -->
 <div id="content" class="span-17 last">
   <div>
-    <h3 class="ui">Introduction</h3>
+    <h3 class="ui">Synopsis</h3>
   </div>
   <div class="introduction">
     <?php echo kirbytext($page->text()) ?>
   </div>
   <div>
-    <h3 class="ui">Journal</h3>
+    <h3 class="ui">Latest Journal Entries</h3>
   </div>
   <div class="journal">
   <?php
     $journal = $pages->find('journal');
-    foreach($journal->children()->visible()->limit(3)->flip() as $entry):
+    foreach($journal->children()->visible()->flip()->limit(3) as $entry):
   ?>
     <!-- ——————————————————————————————————————————————————————————————————— Post -->
-    <div class="entry">
+    <div class="entry span-17 last">
       <h2><a href="<?php echo $entry->url() ?>"><?php echo html($entry->title()) ?></a></h2>
       <span class="journal_date">
       <?php echo $entry->date('Y-m-d') ?>
