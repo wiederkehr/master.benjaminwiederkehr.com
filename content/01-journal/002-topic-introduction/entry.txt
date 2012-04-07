@@ -2,12 +2,12 @@ Title: Topic Introduction
 ----
 Date: 12-03-02
 ----
-Updated: 12-03-02
+Updated: 12-04-06
 ----
 Text:
 This is my topic introduction as presented on March 2, 2012. The full presentation can be viewed on (link:http://speakerdeck.com/u/wiederkehr/p/master-topic-introduction text:Speaker Deck).
 
-## The Reality
+### The Reality
 
 We experience the multifaceted impact  of money on our society on a daily basis. Whether it's controlling the household budget, planning the financing of education and provision or investing in products and markets. The complexity of structure, process and dynamics increasingly deprives us of our capacity to act and brings us into a dependency between layman and expert. Although we all live in the radius of influence of financial markets, there is a diverging gap between literacy and illiteracy. 
 
@@ -19,7 +19,7 @@ This dependency can be seen as a scale between trust and knowledge. The less I k
 
 One big problem I see when I compare the reality and the equation above is the following: Trust in the bank - client relationship got lost over the past years. Furthermore, the means to build trust used by financial institutions became absurd due to the nature how they currently work. Money is completely digitalized, it's location-free and it moves with speed beyond human comprehension.
 
-## The Vision
+### The Vision
 
 **I want to facilitate an informed, considered, critical and trained interaction with money.**
 
@@ -27,7 +27,7 @@ One big problem I see when I compare the reality and the equation above is the f
 
 This requires literacy, but also effort and time invested by the user. I fully understand that not everybody is able or willing to do this, but I see an opportunity for solutions that reduce the barriers of entry here. 
 
-## The Hypothesis
+### The Hypothesis
 
 **Can visual tools, that allow for the exploration, evaluation and communication of financial information, lead to a more mature relationship between people and banks?**
 

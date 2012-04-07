@@ -1,0 +1,10 @@
+Title: Project Structure Plan
+----
+Date: 12-04-02
+----
+Updated: 12-04-05
+----
+Text:
+This is my project structure as handed in on April 02, 2012.
+
+(image:120406_project_structure_plan.png width:670)

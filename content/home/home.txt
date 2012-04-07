@@ -2,11 +2,13 @@ Title: Home
 ----
 Date: 12-01-09
 ----
-Updated: 12-01-09
+Updated: 12-03-27
 ----
-Version: 1.0
+Version: 1.1
 ----
-Footnotes: true
+Footnotes: false
 ----
+text:
+## Visual tools for the exploration, evaluation and communication of personal financial information.
 
-Text: home
+This master thesis answers the question, how the visual and functional design of an application for the exploration, evaluation and communication of personal financial information needs to be to give the user access to the contained information. The access to transparent information is, due to its' complexity, not sufficient to foster a more critical handling of financials and consequentially facilitate an independent capacity to act. Gaining insights and making decisions from financial information requires collaboration with an intermediary such as an financial advisor which potentially deprives people from self-determination. As part of this work, the described dependency is subject of a critical analysis and potential for reducing the dependency between laymen and expert will be provided. With a user centered interaction design, the usage of heuristics from visual perception and a precise consideration of the touch points between the human and the application, a series of prototypes will be created that individually analyse subsections of a holistic system for the access and handling of financial information. Eventually, these applets will be combined into a functional instrument.

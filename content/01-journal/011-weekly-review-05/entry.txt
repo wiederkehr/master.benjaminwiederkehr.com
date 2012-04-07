@@ -1,0 +1,12 @@
+Title: Weekly Review No. 5
+----
+Date: 12-04-07
+----
+Updated: 12-04-07
+----
+Text:
+The goal for this week's workshop conducted by Max Rheiner about computer vision was to get used to working with Processing and the (link:http://en.wikipedia.org/wiki/Kinect text:Kinect),  a motion sensing input device by Microsoft. This piece of technology makes it easy to use camera tracking and thus create interfaces that allow the user to interact with his whole body. After understanding the basic principles on how to work with the signals coming in from the camera we were free to explore the possibilities. I created a (link:kinect-experiments text:series of visualizations) that use particle systems to represent the human body in different ways. The final result was an illusion of the human shape that continuosly fades away and resolves the user's body into dust.
+
+Beside the technical work, I also advanced my thesis by writing a first draft of my (link:project-definition text:project definition) and laying out my (link:project-structure-plan text:project structure plan). The project defintion describes the project goals, the target audience for subject at hand and the involved stakeholders of the project. The project structure plan includes the order of the phases and activities, but does not yet define the date related schedule.
+
+On Tuesday evening I was invited to give a talk at the (link:http://www.meetup.com/IoT-Zurich/ text:Internet of Things Meetup) at the ETH. The event included three talks. First up was (link:http://www.webofthings.org/team/ text:Dominique Guinard), co-founder and CTO of Evrthng, a platform and engine that helps companies set up an infrastructure for the internet of things. Second was (link:http://people.inf.ethz.ch/mkovatsc/ text:Matthias Kovatsch), researcher in the Institute for Pervasive Computing at ETHZ, talking about CoAP and his implementation of it in Copper. I was third and talked briefly about the work we do at Interactive Things and then described our process of data driven design for the (link:http://villevivante.ch/ text:Ville Vivante project).

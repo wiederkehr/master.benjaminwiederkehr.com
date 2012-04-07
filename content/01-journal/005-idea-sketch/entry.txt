@@ -2,30 +2,30 @@ Title: Idea Sketch
 ----
 Date: 12-03-14
 ----
-Updated: 12-03-25
+Updated: 12-04-06
 ----
 Text:
 This is my idea sketch as handed in on March 14, 2012.
 
-## Synopsis
+### Synopsis
 
 (image: 120323_ideasketch_synopsis.png text: Synopsis)
 
 This master thesis answers the question, how the visual and functional design of an application for the exploration, evaluation and communication of personal financial information needs to be to give the user access to the contained information. The access to transparent information is, due to its' complexity, not sufficient to foster a more critical handling of financials and consequentially facilitate an independent capacity to act. Gaining insights and making decisions from financial information requires collaboration with an intermediary such as an financial advisor which potentially deprives people from self-determination. As part of this work, the described dependency is subject of a critical analysis and potential for reducing the dependency between laymen and expert will be provided. With a user centered interaction design, the usage of heuristics from visual perception and a precise consideration of the touch points between the human and the application, a series of prototypes will be created that individually analyse subsections of a holistic system for the access and handling of financial information. Eventually, these applets will be combined into a functional instrument.
 
-## What?
+### What?
 
 (image: 120323_ideasketch_what.png text: What)
 
 I will create an instrument for the exploration, evaluation and communication of personal financial information. Interactive, dynamic visualizations, that provide intuitively accessible, memorable and actionable comprehension of financial information are the core of this instrument. The disposition of content and gestalt of the composition of historic, current and potential future data, that will be made accessible to the user, will be part of this work. To be truly actionable, the application needs to provide user scenarios that map the user's action onto his financial situation. Here, it's very important to synchronize the mental model of the user with the conceptual model of the interface and visualization. This happens through the direct manipulation by the user and an immediate, consecutive reaction of the representation. A useful tool respects the capabilities of the user, the exact attributes of the object as well as the context of the environment in which it is intended to function.
 
-## Why?
+### Why?
 
 (image: 120323_ideasketch_why.png text: Why)
 
 We experience the multifaceted impact  of money on our society on a daily basis. Whether it's controlling the household budget, planning the financing of education and provision or investing in products and markets. The complexity of structure, process and dynamics increasingly deprives us of our capacity to act and brings us into a dependency between layman and expert. Although we all live in the radius of influence of financial markets, there is a diverging gap between literacy and illiteracy. I try to reduce this independancy by providing intuitive and accessible instruments that foster financial literacy through exploration and verification. I believe that it's the responsibility of our tools to adapt inaccessible things to our human limitations. Equipped with such adequate tools, people with inexistent or limited financial literacy will be able to conduct a more informed, considered, critical and trained interaction with money.
 
-## How?
+### How?
 
 (image: 120323_ideasketch_how.png text: How)
 

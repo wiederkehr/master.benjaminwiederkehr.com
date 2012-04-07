@@ -1,0 +1,19 @@
+Title: Project Definition
+----
+Date: 12-04-02
+----
+Updated: 12-04-05
+----
+Text:
+This is my project definition as handed in on April 02, 2012.
+
+### Project Goals
+Gaining insights and making decisions from financial information requires for most people to collaborate with an intermediary such as a financial advisor which potentially deprives people from self-determination. The access to transparent information is, due to its' complexity, not sufficient to foster a critical handling of financials and consequentially facilitate an independent capacity to act. The goal of this master thesis is to reduce this independancy by providing intuitive and accessible instruments that foster understanding through exploration and verification. I believe that it's the responsibility of our tools to adapt inaccessible things to our human limitations. Equipped with such adequate tools, people with inexistent or limited financial literacy will be able to conduct a more informed, considered, critical and trained interaction with money. As part of this work, I strive to answers the question, how the visual and functional design of an application for the exploration, evaluation and communication of personal financial data needs to be, to give the user access to the contained information. With a user centered design instead of a technology driven approach, a series of prototypes will be created that individually analyse subsections of a holistic system for the access and handling of personal financial information. Eventually, these applets will be combined into a functional instrument.
+
+### Target Audience
+The target audience for my work are people who have the responsibility over their own personal financials. This includes the broader general public beginning around the age of 18 up to seniority. I will focus on people with limited financial literacy who are responsible for supporting not just themselves, but take care of a family. Access to technology and internet are requirements, which potentially excludes an ever growing and important group of people who live close to close or below to subsistence level. I am aware of this shortcoming and will reflect on potential resulting implications.
+
+### Stakeholder
+The involved stakeholders include my mentor Prof. Dr. Gerhard M. Buurman, who established the Interaction Design course at the ZHdK in 2000 and co-founded the Swiss Design Institute for Finance and Banking in 2007 and is currently the director of the Institute for Design Research. He has a deep understanding and interest in shaping a better interaction between people and financial institutions and will be my closest partner in this work. Prof. Andrew Vande Moere of the K.U. Leuven University in Belgium, Prof. Michael Stoll of the University of Augsburg in Germany and Eric Rodenbeck, founder of Stamen Design support my work with their individual expertise in the area of information vaisualization and guide my scientific approach. Mani Mohanathas, previously Product Manager at UBS, Credit Suisse and Clariden Leu as well as Mike Bostock, data scientist at Square help me understand the structures and processes of finance and banking. As this is a new field for me, their support is highly appreciated and crucial to understand the inner workings. I conduct this project independantly from any industrial interests or commitments.
+
+If we look beyond my project related work, I can see interest in such kind of solutions by the general public, financial institutions, educational insitutions as well as small to medium sized businesses (as most principles for personal finance also apply to business finance on a limited scale).

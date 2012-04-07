@@ -28,6 +28,10 @@ h3.ui					{ color: #bbb; font-size: 10px; font-weight: normal; margin-bottom: 2p
 h3.ui a				{ color: #bbb; font-weight: normal;}
 h3.ui a:hover	{ color: #444; }
 
+/* HOME
+/////////////////////////////////////////////////////////////////*/
+.introduction { border-top: 3px solid #d4d5d3; }
+
 /* JOURNAL
 /////////////////////////////////////////////////////////////////*/
 .journal			{ border-top: 3px solid #d4d5d3; }
@@ -52,6 +56,33 @@ h3.ui a:hover	{ color: #444; }
 #sidebar dd							{ }
 
 .sidebar_content p			{ color: #bbb;}
+
+/* SLIDER
+/////////////////////////////////////////////////////////////////*/
+.orbit-wrapper{
+  clear: both;
+}
+.orbit-wrapper #slider { 
+  width: 670px;
+  height: 503px;
+  background-color: #efefec;
+}
+.orbit-wrapper #slider img{
+  background: #efefec;
+}
+.orbit-wrapper div.slider-nav span {
+  width: 30px;
+  height: 30px;
+  margin-top: -15px;
+}
+
+.orbit-wrapper div.slider-nav span.right {
+  right: -40px; 
+}
+
+.orbit-wrapper div.slider-nav span.left {
+  left: -40px; 
+}
 
 /* FOOTNOTES
 /////////////////////////////////////////////////////////////////*/

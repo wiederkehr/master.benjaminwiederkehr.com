@@ -1,0 +1,22 @@
+Title: Weekly Review No. 4
+----
+Date: 12-03-31
+----
+Updated: 12-03-31
+----
+Text:
+The goal for this week's workshop conducted by Moritz Kemper about interaction design prototyping methods was to get used to working with physical computing. This means bridging the gap between computers and physical objects by reading and writing data back and forth using the Arduino environment and Processing. I hacked together a few playful gadgets using light sensors, potentiometers and accellerometers. The outcome should be seen rather as excercises than serious deliverables, but it got me started in writing code again and was a lot of fun.
+
+Beside that, I worked on the project plan for my master's project. I started by clearly defining the goals I strive to achive over the upcoming 17 months. This includes my personal as well as the project goals and I outlined them as follows.
+
+### Personal Goals
+* Master thesis as a groundbreaking piece in the area of financial communication and information visualizations.
+* Master thesis as a technical proof of capabilities.
+* Learn and apply scientific research through design.
+* Achieve academic grade of Master of Arts in Design with an excellent review.
+
+### Project Goals
+* Create an instrument that enables the exploration, evaluation and communication of personal financial information.
+* Facilitate an informed, considered, critical and trained interaction with money for people with limited financial literacy.
+* Follow an user centric approach instead of a technology driven approach.
+* Achieve distruptive innovation in the field of personal finances.

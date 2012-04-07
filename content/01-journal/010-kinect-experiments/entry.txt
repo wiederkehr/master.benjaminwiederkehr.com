@@ -1,0 +1,21 @@
+Title: Kinect Experiments
+----
+Date: 12-04-06
+----
+Updated: 12-04-06
+----
+Text:
+In a three day long workshop, Max Rheiner introduced us to computer vision to working with Processing and the (link:http://en.wikipedia.org/wiki/Kinect text:Kinect), a motion sensing input device by Microsoft. This piece of technology makes it easy to use camera tracking and thus create interfaces that allow the user to interact with his whole body. After understanding the basic principles on how to work with the signals coming in from the camera we were free to explore the endless possibilities.
+
+I was inspired by two pieces of work I recently discovered. One was the (link:http://thecreatorsproject.com/blog/the-creators-project-san-francisco-photo-gallery text:The Treachery of Sanctuary) installation by Chris Milk at the Creators Project in San Francisco. The other is the excellent piece by onformative in collaboration with Daniel Franke called (link:http://www.onformative.com/work/unnamed-soundsculpture/ text:Unnamed Soundsculpture). During the workshop I created a series of visualizations that use particle systems to represent the human body in different ways. The final result was an illusion of the human shape that continuosly fades away and resolves the user's body into dust.
+
+(image:kinect-inspiration.png)
+
+<div id="slider">
+(image:120405_computervision_01-trans.png width:670px height:503px)
+(image:120405_computervision_02-trans.png)
+(image:120405_computervision_03-trans.png)
+(image:120405_computervision_04-trans.png)
+(image:120405_computervision_05-trans.png)
+(image:120405_computervision_06-trans.png)
+</div>
