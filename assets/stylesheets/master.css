@@ -9,7 +9,9 @@ Last update:	120305_BW
 /* OVERRIDE
 /////////////////////////////////////////////////////////////////*/
 body							{	font-size: 87.5%;}
-h2, .post h3			{ font-family: "ff-netto-web",sans-serif;}
+h2, 
+.post h3,
+.home .entry h3   { font-family: "ff-netto-web",sans-serif;}
 
 /* HEADER
 /////////////////////////////////////////////////////////////////*/
@@ -30,7 +32,8 @@ h3.ui a:hover	{ color: #444; }
 
 /* HOME
 /////////////////////////////////////////////////////////////////*/
-.introduction { border-top: 3px solid #d4d5d3; padding: 40px 0;}
+.home .introduction { border-top: 3px solid #d4d5d3; padding: 40px 0;}
+.home .journal_date	{ top: 18px;}
 
 /* JOURNAL
 /////////////////////////////////////////////////////////////////*/

@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 <?php snippet('sidebar') ?>
 <!-- ——————————————————————————————————————————————————————————————————— Content -->
-<div id="content" class="span-17 last">
+<div id="content" class="home span-17 last">
   <div>
     <h3 class="ui">Synopsis</h3>
   </div>
@@ -18,7 +18,7 @@
   ?>
     <!-- ——————————————————————————————————————————————————————————————————— Post -->
     <div class="entry span-17 last">
-      <h2><a href="<?php echo $entry->url() ?>"><?php echo html($entry->title()) ?></a></h2>
+      <h3><a href="<?php echo $entry->url() ?>"><?php echo html($entry->title()) ?></a></h3>
       <span class="journal_date">
       <?php echo $entry->date('Y-m-d') ?>
       </span>
