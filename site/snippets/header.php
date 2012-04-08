@@ -23,19 +23,9 @@
   <?php foreach($page->files()->findByExtension('css') as $css): ?>
   <?php echo css($css->url()) ?>
   <?php endforeach ?>
-  <!--[if lt IE 8]>
-    <link rel="stylesheet" href="css/global/ie.css" type="text/css" media="screen, projection" />
-    <![endif]-->
   <!-- ——————————————————————————————————————————————————————————————————— JS -->
-  <script type="text/javascript" src="<?php echo url() ?>/assets/javascripts/jquery-1.7.2.min.js"></script>
-  <script type="text/javascript" src="<?php echo url() ?>/assets/javascripts/jquery.orbit-1.2.3.min.js"></script>
-  <script type="text/javascript" src="<?php echo url() ?>/assets/javascripts/jquery.footnotes.1-2-2.min.js"></script>
   <script type="text/javascript" src="http://use.typekit.com/aea1puq.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  <script type="text/javascript" src="<?php echo url() ?>/assets/javascripts/master.js"></script>
-  <?php foreach($page->files()->findByExtension('js') as $js): ?>
-  <?php echo js($js->url()) ?>
-  <?php endforeach ?>
 </head>
 <body>
   <div class="container">

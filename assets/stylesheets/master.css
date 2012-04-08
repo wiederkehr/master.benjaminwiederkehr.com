@@ -37,12 +37,31 @@ h3.ui a:hover	{ color: #444; }
 
 /* JOURNAL
 /////////////////////////////////////////////////////////////////*/
-.journal			{ border-top: 3px solid #d4d5d3; }
+.journal			{ border-top: 3px solid #d4d5d3;}
 .entry				{ border-bottom: 1px solid #d4d5d3; position: relative;}
 .entry h2			{ margin:  1.8em 0 1.8em;}
+.entry h2 a   { display: block;}
+.entry h2 a:before{ 
+  display: none;
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  left: -30px;
+  content: url(../images/toggle_btn.png);
+}
+.entry h2:hover a:before{ 
+  display: block;
+}
+.entry.expanded h2 a:before{ 
+  display: block;
+  -moz-transform: scale(1) rotate(45deg) translate(0px, 0px) skew(0deg, 0deg);
+  -webkit-transform: scale(1) rotate(45deg) translate(0px, 0px) skew(0deg, 0deg);
+  -o-transform: scale(1) rotate(45deg) translate(0px, 0px) skew(0deg, 0deg);
+  -ms-transform: scale(1) rotate(45deg) translate(0px, 0px) skew(0deg, 0deg);
+  transform: scale(1) rotate(45deg) translate(0px, 0px) skew(0deg, 0deg);
+}
 .entry_date	  { font: italic 12px/18px "Georgia", Georgia, serif; color: #aaa; position: absolute; right: 0; top: 44px;}
-.collapsed .collapse{ display: none;}
-.expanded .collapse{ display: block;}
+.expanded .entry_text{ margin-bottom: 40px;}
 
 /* SIDEBAR
 /////////////////////////////////////////////////////////////////*/

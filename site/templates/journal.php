@@ -13,7 +13,6 @@
       <span class="entry_date">
         <?php echo $entry->date('Y-m-d') ?>
       </span>
-      <div class="entry_text"></div>
     </div><!-- .span-17 last post-->
     <?php endforeach ?>
   </div><!-- .span-17 last -->
