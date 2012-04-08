@@ -19,7 +19,7 @@
     <!-- ——————————————————————————————————————————————————————————————————— Post -->
     <div class="entry span-17 last">
       <h3><a href="<?php echo $entry->url() ?>"><?php echo html($entry->title()) ?></a></h3>
-      <span class="journal_date">
+      <span class="entry_date">
       <?php echo $entry->date('Y-m-d') ?>
       </span>
     </div><!-- .entry-->

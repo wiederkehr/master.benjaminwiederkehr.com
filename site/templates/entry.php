@@ -8,8 +8,10 @@
   <div class="span-17 last">
     <!-- ——————————————————————————————————————————————————————————————————— Post -->
     <div class="span-17 last post">
-      <h2><?php echo html($page->title()) ?></h2>
-      <?php echo kirbytext($page->text()) ?>
+      <h2 id="entry_title"><?php echo html($page->title()) ?></h2>
+      <div id="entry_text">
+        <?php echo kirbytext($page->text()) ?>
+      </div>
     </div><!-- .span-17 last post-->
     <?php if($page->footnotes()) : ?>
     <!-- ——————————————————————————————————————————————————————————————————— Footnotes -->
