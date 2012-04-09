@@ -4,14 +4,12 @@ Intro Styles
 Description:	Layout and element specific styling for the master thesis page
 Author:				Benjamin Wiederkehr
 Start:				111217_BW
-Last update:	120305_BW
+Last update:	120409_BW
 
 /* OVERRIDE
 /////////////////////////////////////////////////////////////////*/
 body							{	font-size: 87.5%;}
-h2, 
-.post h3,
-.home .entry h3   { font-family: "ff-netto-web",sans-serif;}
+h2,.post h3,.entry h3 { font-family: "ff-netto-web",sans-serif;}
 
 /* HEADER
 /////////////////////////////////////////////////////////////////*/
@@ -61,14 +59,14 @@ h3.ui a:hover	{ color: #444; }
   transform: scale(1) rotate(45deg) translate(0px, 0px) skew(0deg, 0deg);
 }
 .entry_date	  { font: italic 12px/18px "Georgia", Georgia, serif; color: #aaa; position: absolute; right: 0; top: 44px;}
-.expanded .entry_text{ margin-bottom: 40px;}
+.expanded .entry_text{ padding-bottom: 40px;}
 
 /* SIDEBAR
 /////////////////////////////////////////////////////////////////*/
 #sidebar a							{ color: #aaa; font-weight: bold; text-decoration: none;}
 #sidebar a:hover				{ color: #444;}
 #sidebar p							{ font-size: 11px; margin: 0 0 40px;}
-#sidebar p.lead					{ font: italic 15px/18px "Georgia", Georgia, serif; color: #aaa; margin-top: 41px;}
+#sidebar p.lead					{ font: italic 14px/21px "Georgia", Georgia, serif; color: #aaa; margin-top: 40px;}
 #sidebar h3							{ color: #bbb; font-size: 10px; padding-bottom: 2px; margin-bottom: 15px; text-transform: uppercase; border-bottom: 3px solid #d4d5d3;}
 #sidebar ul							{ list-style: none; margin: 0 0 40px; padding: 0;}
 #sidebar ul li					{ font-size: 11px; }

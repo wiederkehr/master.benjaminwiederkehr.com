@@ -26,6 +26,8 @@
   <!-- ——————————————————————————————————————————————————————————————————— JS -->
   <script type="text/javascript" src="http://use.typekit.com/aea1puq.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  <!-- ——————————————————————————————————————————————————————————————————— JS -->
+  <link rel="alternate" type="application/rss+xml" href="<?php echo url('journal/feed') ?>" title="Benjamin Wiederkehr's Master Journal" />
 </head>
 <body>
   <div class="container">

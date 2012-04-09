@@ -19,14 +19,14 @@ $(document).ready(function(){
       $('.entry.expanded .entry_text').empty();
       $('.entry.expanded').addClass('collapsed');
       $('.entry.expanded').removeClass('expanded');
-      parent.addClass('expanded');
-      parent.removeClass('collapsed');
       if (parent.find('.entry_text').length == 0){
         parent.append('<div class="entry_text"></div>');
       }
       placeholder = parent.find('.entry_text');
       entry = $(this).attr('href') + ' .post #entry_text';
       placeholder.load(entry, function(){
+        parent.addClass('expanded');
+        parent.removeClass('collapsed');
         $('#slider').slider();
       });
     }
