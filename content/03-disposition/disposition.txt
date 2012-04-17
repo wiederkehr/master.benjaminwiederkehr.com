@@ -1,0 +1,37 @@
+Title: Disposition
+----
+Date: 12-04-16
+----
+Updated: 12-04-17
+----
+Version: 1.1
+----
+Footnotes: true
+----
+
+Text: 
+
+## Visual Instruments for Personal Finances
+
+Practice- and application-oriented master thesis at the Department Design of the Zurich University of the Arts Field of Excellence Interaction supervised Prof. Dr. Gerhard Buurman.
+
+### Introduction
+We experience the multifaceted impact of money on our society and economy on a daily basis. Whether it's controlling the household budget, planning the financing of education and provision or selecting assets for investment. Between 1999 and 2007 the household debt in the Eurozone increased from 52% to 70% of GDP. After the financial crisis in 1999 a period of increased savings rate, which was paralleled by an increased net borrowing rate, started. After 2001, the savings rate started declining while the borrowing rate still continues to rise . This fact dwells private debt as a sicnificant source for economic instability beside government external debt (Cardoso 2005) <span class="footnote">Cardoso Pedro L. (2005): Household behaviour in a monetary union: what can we learn from the case of Portugal? ECFIN Country Focus, European Commission</span>
+
+The abstract nature of finance in conjunction with the complexity of structure, dependencies and dynamics of the field increasingly brings us into a dependency between layperson and expert. That's why, gaining insights and making decisions from financial information requires for most people to collaborate with an intermediary such as a financial advisor, which potentially deprives them from self-determination. On the other hand, the unassisted access to raw information is, due to its' complexity, not sufficient to be understood, discussed and verified and thereby to be transformed into applied knowledge (Judelman 2004) <span class="footnote">Judelman Gregory B. (2004): Knowledge Visualization, Problems and Principles for Mapping the Knowledge Space. University of Lübeck, Germany</span>. This kind of knowlegde is necessary to foster a more critical handling of financials and consequentially enable an independent capacity to act for untrained people. I believe that it's the responsibility of our tools to adapt inaccessible things to human limitations. Equipped with suitable tools, people with limited financial literacy will be able to conduct a more informed, considered, critical and trained interaction with money.
+
+The essential question of this thesis is, how the content and representation model of personal financial information influences understanding for inexperienced people. Central to this is the question, what specific configuration of information is relevant, meaningful and useful to the user in the different contexts of handling finances. Concomitant, I strive to answer the question, how the visual and functional design of an instrument for the exploration, evaluation and communication of personal financial information needs to be, to facilitate an intuitively accessible, memorable and actionable comprehension.
+
+### Background
+Personal finance services, this might be the in-person counsel of an advisor as well as a web-based application, provide the user with the comforting feeling of being in charge of their financials through access to current and historic data. Few of them go further by providing actionable means of analysis. On the other hand, a striking number of services that use behavioral or persuasive design principles can be found in areas like energy monitoring and smart metering (Lockton Dan 2012) <span class="footnote">Lockton Dan (2012): Design with Intent: A design pattern toolkit for environmental & social behaviour change. Brunel University, London</span>.
+
+Information visualization that builds on the principles of visual perception have been proven to be valuable in reading large and complex data sets. Big potential lies therefore in finding the right model for representation of content embedded in the relevant context. Furthermore, I plan to investigate how the direct and directed interaction between the human and the computer aids understanding of actions and consequences. Such actions should be testable in a lightweight manner, thus shifting the user's state of mind from 'Work' to 'Exploration', 'Discovery' or 'Learning'.
+
+### Approach
+Contextual inquiry and social probes will be used to analyse the target audience and articulate the user archetypes and their scenarios. This reveals how, when and where people are working with their finances and what information is most important for the tasks at hand. Based on this, a framework for the evaluation of quantitative and qualitative user tests will be outlined. The analysis of the current state of the art in research and industry, displays the discrepancy between demand and supply and by that, defines the room for innovation for the following process of conceptualization.
+
+With a user centered instead of a technology driven approach, a set of prototypes on multiple levels of fidelity will be tested in a series of experiments with real users. Each iteration will be subject to honest evaluation and therefore not only stand as an exemplary application, but also produce data about its' potential impact on the users' behavior and influence the consecutive work. Measurable metrics like performance and memorability as well as soft metrics like engagement, favorableness, sense of trust and security will be collected in parallel.
+
+The prototypes are built to satisfy different user stories and thereby analyse subsections of a holistic system for the access and handling of personal financial information. The combination of these subsections after their individual verification happens in the final phase of the develpment process. The implementation in a real-life context and the evaluation thereof conclude the research work and form the foundation for pursuing perspectives.
+
+Verification with real users will prove appropriateness and usefulness of content and representation for inexperienced people, while expert reviews will ensure its' accuracy and utility. The resulting instrument will be optimized for use in the exploration, evaluation and communication of personal financial information. However, it is planned to draw conclusions for a potential adaption and application in other domains. Personal financial information thereby serve as an instance of a topic area with an extensive taxonomy, multifaceted user groups that require specific means of access, and a polyvalent relevance in our society. Comparable areas can be found in healthcare, justice, or politics.
