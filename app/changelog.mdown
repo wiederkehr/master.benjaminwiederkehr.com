@@ -1,5 +1,47 @@
 #Kirby Changelog
 
+## 1.0.9
+
+### Update from 1.0.8 to 1.0.9
+
+To update from 1.0.8 to 1.0.9 replace the `kirby` system folder. Delete all files in site/cache, if you got caching enabled. 
+
+### Changes
+
+- fixed a bug in pages::filterBy(). 
+- fixed a possible php error in kirbytext::init()
+- fixed a bug in pages::without()
+- proper 404 header for error pages
+- improved uri::raw() method
+- added optional php markdown extra parser
+- updated to kirby toolkit 0.930
+- new files::filterBy() method
+
+## 1.0.8
+
+### Update from 1.0.7 to 1.0.8
+
+To update from 1.0.7 to 1.0.8 replace the `kirby` system folder. Delete all files in site/cache, if you got caching enabled. 
+
+### Changes
+
+- fixed a bug in pages::findBy(). Strict comparison did break comparing strings. 
+- added a yaml parser
+
+## 1.0.7
+
+### Update from 1.0.6 to 1.0.7
+
+To update from 1.0.6 to 1.0.7 replace the `kirby` system folder. Delete all files in site/cache, if you got caching enabled. 
+
+### Changes
+
+- made sure the .htaccess file is no longer a binary to avoid permission problems.  
+- fixed a bug with invalid variable names in content files. They get converted to valid function names now. 
+- added strict comparison for objects to improve performance and avoid nested errors. 
+- added $pages->files()->flip() to be compliant with the pages class
+- added a recommended values section to the htaccess file. 
+
 ## 1.0.6
 
 ### Update from 1.0.5 to 1.0.6

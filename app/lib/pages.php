@@ -157,16 +157,16 @@ class page extends obj {
   }
 
   function isHomePage() {
-    return ($this->uri == c::get('home')) ? true : false;    
+    return ($this->uri === c::get('home')) ? true : false;    
   }
 
   function isErrorPage() {
-    return ($this->uri == c::get('404')) ? true : false;
+    return ($this->uri === c::get('404')) ? true : false;
   }
 
   function isActive() {
     global $site;
-    return ($site->pages->active() == $this);
+    return ($site->pages->active() === $this);
   }
 
   function isOpen() {
@@ -197,8 +197,8 @@ class page extends obj {
   }
 
   function isChildOf($obj) {
-    if($this == $obj); 
-    return ($this->parent() == $obj);
+    if($this === $obj); 
+    return ($this->parent() === $obj);
   }
 
   function isAncestorOf($obj) {
@@ -207,12 +207,12 @@ class page extends obj {
 
   function isDescendantOf($obj) {
     
-    if($this == $obj) return false;
+    if($this === $obj) return false;
 
     $parent = $this;
 
     while($parent = $parent->parent()) {
-      if($parent == $obj) return true;
+      if($parent === $obj) return true;
     } 
     
     return false;
@@ -504,7 +504,7 @@ class pages extends obj {
     
   function without($uid) {
     $pages = $this->_;
-    unset($pages[$uid]);
+    unset($pages['_' . $uid]);
     return new pages($pages);        
   }
 

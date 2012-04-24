@@ -109,45 +109,28 @@ h3.ui a:hover	{ color: #444; }
 /* FOOTNOTES
 /////////////////////////////////////////////////////////////////*/
 .footnotes{
-  border-bottom: 1px solid #d4d5d3;
-  padding-top: 1.5em; 
-  padding-bottom: 36px; 
+  padding-top: 36px; 
+}
+.footnotes hr{
   margin-bottom: 36px;
 }
-.footnote sup{
+.footnotes ol {
+	font-size: 0.85em;
+	margin-top: 1.5em;
+	padding-top: 1.5em;
+}
+.footnotes ol li{
+  padding-left: 1.5em;
+}
+sup{
 	font-size: 0.71em;
-	padding-left: 0px;
+	padding-left: 3px;
 }
-a.footnoteTarget {
+sup a[rel="footnote"] {
 	text-decoration: none;
-}
-.footnote ol li:hover {
-	text-decoration: underline;
 }
 a.footnoteBackref, a.footnoteLink {
 	text-decoration: none;
-}
-ol.footnotesList {
-	font-size: 0.85em;
-}
-ol.footnotesList > li {
-	text-indent: -1.5em;
-	padding-left: 1.5em;
-	vertical-align: top;
-}
-.footnoteBackReferenceGroup {
-	padding-right: 0.5em;
-}
-.footnoteBackref {
-	padding-right: 0.25em;
-}
-span.footnoteContent {
-}
-span.footnoteContent > p:first-child, span.footnoteContent > div:first-child { 
-	display: inline; 
-}
-span.footnoteContent p, span.footnoteContent div {
-	text-indent: 0em;
 }
 /* VERSION
 /////////////////////////////////////////////////////////////////*/

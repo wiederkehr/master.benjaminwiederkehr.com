@@ -367,6 +367,19 @@ class files extends obj {
     return new files($files);        
   }
 
+  function filterBy($field, $value, $split=false) {
+    $files = array();
+    foreach($this->_ as $key => $file) {
+      if($split) {
+        $values = str::split((string)$file->$field(), $split);
+        if(in_array($value, $values)) $files[$key] = $file;
+      } else if($file->$field() == $value) {
+        $files[$key] = $file;
+      }
+    }
+    return new files($files);    
+  }
+
   function images() {
     return $this->findByType('image');
   }
@@ -401,6 +414,11 @@ class files extends obj {
 
   function niceTotalSize() {
     return f::nice_size($this->totalSize());
+  }
+
+  function flip() {
+    $files = array_reverse($this->_, true);
+    return new files($files);
   }
 
   function sortBy($field, $direction='asc', $method=SORT_REGULAR) {
