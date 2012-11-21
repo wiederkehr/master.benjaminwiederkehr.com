@@ -1,0 +1,56 @@
+Title: Junior Design Research Workshop
+----
+Date: 12-11-20
+----
+Updated: 12-11-20
+----
+Footnotes: true
+----
+Text:
+
+During the (link:http://junior-research.ch text:Junior Design Research Conference) at the Université Ouvrière de Genève on November 15th 2012 I had the opportunity to conduct a workshop that centered around my general research topic. While information design might be relevant to some fellow design researchers as well, I decided to focus on persuasive design. If I try to understand how the presentation of information influences people's comprehension, it's crucial to also understand how our design decision can impact the way we present the information.
+
+The official description of my workshop read as follows:
+
+**How can design influence understanding and behavior?**
+*Design has the power to deeply influence how people interact with any type of artifact. How strongly the reader or user is influenced by the form and function can be visualized as a scale: On one end is «Utility», an object to offer useful information or functionality to the user. On the other end is «Persuasion», an object designed to influence the behavior, perception or attitude of the user. In this workshop we would like to identify existing examples of design with a specific intent and explore different approaches of shaping people's perception. Let's find out how we can consider the potential impact of our decisions in the design process.*
+
+The workshop was attended by around 10 students from the Service Design and Short Motion classes of HSLU and the Media Design class of HEAD. Prof. Michael Krohn of the ZHdK supported me in conducting the workshop and his input was of great value to the discussion. As this was the first time I gave this workshop, I did not quite know what I can expect to happen during the two hours.
+
+I planned to follow this rough schedule:
+
+1. Introduction of persuasive design based on the grid of persuasion.
+2. Collection of 5–10 examples of design with intent by the students individually or in groups.
+3. Presentation of the examples and positioning within the grid of persuasion.
+4. Discussion of the decisions regarding the applied ranking.
+5. Introduction of three specific principles for persuasion.
+6. Conclusion and repetition of the key findings and learnings.
+
+(image:product_persuasion_grid.png)
+Fig.1: Grid of persuasion[^1]
+
+(image:persuasive_design_pattern.png)
+Fig.2: Persuasion design patterns[^2]
+
+Both as a designer and as a researcher I learned a lot during the workshop. The participants were highly engaged and the raised concerns spawned a healthy discussion about ethics in design. The following insights were my main take aways from the work with the students.
+
+- Products positioned on the x-axis of the grid of persuasion can be seen as a scale:
+**Need** → **Convenience** → **Desire**.
+- Persuasive products can have great utilitarian qualities to them.
+- We need to think about how we evaluate persuasion.
+- We need to be very specific about the object we place in the grid of persuasion.
+- We need to consider the target audience to evaluate persuasion.
+- Persuasion is always personal and subjective.
+- Positioning products in the middle ground is especially hard.
+- It's easier to focus on products where persuasion has a negative connotation. We should not forget the positive effects persuasion can have.
+
+Some impressions from the workshop:
+
+<div id="slider">
+(image:IMG_3243.jpg width:670px height:503px)
+(image:IMG_3245.jpg)
+(image:IMG_3250.jpg)
+</div>
+
+[^1]: Risdon, C. (2012). Behavior Change as Value Proposition. Retrieved April 25, 2012, from http://adaptivepath.com/ideas/behavior-change-as-value-proposition.
+[^2]: Lockton, D., Harrison, D.J., Stanton, N.A. (2010). The Design with Intent Method: a design tool for influencing user behaviour. *Applied Ergonomics*, Vol.41 No.3, 382-392.

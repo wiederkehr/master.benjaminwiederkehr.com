@@ -1,0 +1,19 @@
+Title: Presentation 2: Research Question
+----
+Date: 12-05-04
+----
+Updated: 12-05-06
+----
+Text:
+
+In the presentation of my research question on May 4, 2012, I presented the state of the disposition that I handed in last week. I changed one essential thing in my focus compared to the past plan: Not only will I investigate how the representation of financial information influences how people understand and thereafter act on it. Instead, I will also focus on the information itself and how its' configuration matches the context the person interacting with it is in. The full presentation can be viewed on (link:http://speakerdeck.com/u/wiederkehr/p/master-research-question-experiment text:Speaker Deck).
+
+### Content
+Personal financial information in most cases consist of three groups: incoming, holding and outgoing. These groups consist of different individual flows of money and they have a varying amount, availability and terms. One challenge that immediately becomes evident is the difficulty to display these on a timescale with past, present and future states.
+
+(image:personal_finances.png)
+
+### Representation
+Few of the available personal finance services provide actionable means of analysis to the user. But, a striking number of services that use such behavioral or persuasive design principles can be found in areas like energy monitoring and smart metering. I used the (link:http://adaptivepath.com/ideas/behavior-change-as-value-proposition text:Product Persuasion Grid), developed by Chris Risdon of Adaptive path to compare a range of products and services and their implementation of persuasion through design and technology. One question that came up during the discussion how trust and knowledge (and the balance between them) could be mapped on this diagram. A question I can't answer right now, but is definitely worth investigating.
+
+(image:product_persuasion_grid.png)

@@ -1,0 +1,32 @@
+Title: Principles For Learning by Exploration
+----
+Date: 12-05-04
+----
+Updated: 12-05-06
+----
+Text:
+Learning by exploration is the process where a user builds an understanding for a subject matter through an interacting with the content at hand. For example, forming a lumb of clay with you own hands. As for digital information on a micro level, this means being tweak the representation and see the immediate reaction. On a macro level, this could mean to load different sets of information on the screen and then be able to compare and combine them. Following are some principles that repeatedly come up in conversations with my mentors and advisors.
+
+### Visual Timescale
+The representation includes my personal financials from the past, my current spending behavior, and a hypothetical outlook based on the collected data. I see important events in my past and the goals, I'd like to reach in the future.
+(image:principle_visual_timescale.jpg)
+
+### Direct Interaction
+I can edit my current spending directly in the representation itself without an intermediary interface and without time delay. The outlook adapts itself to the manipulation immediately and special occurances become visible. I get notified if and how my actions interfere with my previous planning.[^1]
+(image:principle_direct_interaction.jpg)
+
+### Directed Interaction
+I get introduced and guided through the interaction with the representation. I start with an easy to understand representation and I am then able to investigate the data in more detail when I feel truly ready.[^2]
+(image:principle_directed_interaction.jpg)
+
+### Testable Counterfactuals
+I can try out different models for my spending and see a detailed simulation of the outcome. The application allows me to try out different models and compare their individual impact with each other.
+(image:principle_testable_counterfactuals.jpg)
+
+### Sharable Financial Object
+My financial history, current spending and earning behavior and my future goals are stored in an abstracted and anonymized object that represents my financial model. This object can be distributed and shared with peers. Furthermore, I can play with financial models that were shared with me or that were provided as prototypes for certain situations.
+(image:principle_sharable_financial_object.jpg)
+
+[^1]: (link:http://worrydream.com/#!/InteractiveExplorationOfADynamicalSystem text:Interactive Exploration Of A Dynamical System), Bret Victor, 2011
+
+[^2]: (link:http://vis.stanford.edu/papers/narrative text:Narrative Visualization: Telling Stories with Data), Edward Segel, Jeffrey Heer, IEEE Trans. Visualization & Comp. Graphics (Proc. InfoVis), 2010
