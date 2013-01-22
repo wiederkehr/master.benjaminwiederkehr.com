@@ -1,0 +1,43 @@
+Title: Evaluation Scenario
+----
+Date: 13-01-12
+----
+Updated: 13-01-12
+----
+Text:
+
+The scenario selected for the evaluation of this thesis centers around «understandability» as the quality of an artifact required for the mental process of a human to think about and handle it adequately. More precisely, the scenario for the evaluation of visual data analysis and reasoning as described by Lam et al. (Lam, Bertini, Isenberg, Plaisant, Carpendale, 2011)[^1] has been selected.
+
+### Evaluating Visual Data Analysis and Reasoning (VDAR)
+Evaluations in the VDAR group study if and how a visualization tool supports the generation of actionable and relevant knowledge in a domain. In general, VDAR evaluation requires fairly well developed and reliable software.
+
+### Goals and Outputs
+The main goal of VDAR evaluation is to assess a visualization tool’s ability to support visual analysis and reasoning about data. Outputs are both quantifiable metrics such as the number of insights obtained during analysis, or subjective feedback such as opinions on the quality of the data analysis experience.
+
+Even though VDAR studies may collect objective participant performance measurements, studies in this category look at how an integrated visualization tool as a whole supports the analytic process, rather than studying an interactive or visual aspect of the tool in isolation. Similarly, VDAR is more process-oriented than the identification of usability problems in an interface to refine the prototype. Lastly, we first focus on the case of a single user as collaboration between users requires different design considerations both in terms of the visualizations as well as the interactivity and therefore will not be part of this thesis.
+
+### Evaluation Questions
+Data analysis and reasoning is a complex and ill-defined process. The following sample questions are inspired by Pirolli and Card’s model of an intelligence analysis process (Pirolli, 2005)[^2], considering how a visualization tool supports:
+
+- **Data exploration**: How does it support processes aimed at seeking information, searching, filtering, and reading and extracting information?
+- **Knowledge discovery**: How does it support the schematization of information or the (re-)analysis of theories?
+- **Hypothesis generation**: How does it support hypothesis generation and interactive examination?
+- **Decision making**: How does it support the communication and application of analysis results?
+
+### Evaluation Methods
+Studying how a visualization tool may support analysis and reasoning is difficult since analysis processes are typically fluid and people use a large variety of approaches (Isenberg, 2008)[^3]. In addition, the products of an analysis are difficult to standardize and quantify since both the process and its outputs are highly context-sensitive. For these reasons, evaluations in VDAR are typically field studies, mostly in the form of case studies. They strive to be holistic and to achieve realism by studying the tool use in its intended environment with realistic tasks and domain experts.
+
+In the case of this thesis, the user is not a domain expert at the beginning of the observation but should become well versed in the domain after adapting to the routine of using the application. 
+
+Similar to case studies, laboratory observation and interviews are qualitative methods to capture the open-endedness of the data analysis and reasoning processes. They are similar to case studies with the important difference that the target audience are mostly domain experts interacting with a visualization to answer highly specific questions that focus more on the usage of the instrument rather than the exploration of the content through visualization and interaction.
+
+The selected methods for evaluation the prototypes as part of this thesis are cognitive walkthroughs and qualitative interviews. These observations, as well as follow-up interviews, will be open coded to derive abstract models on the construction process and its barriers.
+
+### Poster
+
+Here is the current version of the evaluation framework 1.0 as a poster for further reference.
+(image:evaluation_framework_poster_preview.png link:evaluation_framework_poster.pdf popup:yes)
+
+[^1]: H. Lam, E. Bertini, P. Isenberg, C. Plaisant, S. Carpendale. Seven Guiding Scenarios for Information Visualization Evaluation. University Of Calgary Techreport #2011-992-04, 2011.
+[^2]: P. Pirolli and S. Card. The sensemaking process and leverage points for analyst technology as identified through cognitive task analysis. In Proceedings of International Conference on Intelligence Analysis, 2005.
+[^3]: P. Isenberg, A. Tang, and S. Carpendale. An exploratory study of visual information analysis. In Proceeding of the Conference on Human Factors in Computing Systems (CHI), pages 1217–1226, New York, USA, 2008.

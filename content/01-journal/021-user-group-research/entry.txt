@@ -1,0 +1,83 @@
+Title: User Group Research
+----
+Date: 13-01-06
+----
+Updated: 13-01-09
+----
+Footnotes: true
+----
+Text:
+
+The sound understanding of the target audience forms the groundwork of all consecutive activities and is achieved with the analysis of the human factors and the user scenarios. An in-depth investigation using contextual inquiry and individual interviews with a user group of five people shaped the creation of the user archetypes as well as their scenarios. The user research was conducted in the same environment where financial decisions and planning are made. This ensures that the discoveries arise from the authentic situation under consideration of the real environment and the available information that is most important for the tasks at hand.
+
+### Behavior Variables
+The behavioral variables describe the human factors that drive his actions and are a key component of an abstracted user archetype that will be used later in the design phase to inform decisions to match the user requirements.[^1]
+
+#### Attitudes, *How the user thinks about the product domain and technology*
+
+* How satisfied are you with you current financial situation?
+* How satisfied are you with your current tools?
+* How confident are you about your financial future?
+* How confident are you in your current tools?
+
+#### Aptitudes, *What education and training the user has; capacity to learn*
+
+* Describe your education in finances
+* Describe you experience in handling your own finances
+
+#### Motivations, *Why the user is engaged in the product domain*
+
+* Why do you work on you personal finances?
+
+#### Activities, *What the user does; frequency and volume*
+
+* What do you do regarding financial controlling, planning, budgeting, decision-making, etc.
+* How often do you do these things?
+* How long does this usually take you?
+
+#### Skills, *User capabilities related to the product domain and technology*
+
+* What tools do you currently use for which tasks?
+* Why do you specifically use these tools instead of others?
+
+#### Goals
+* Experience goals: *How the user wants to feel*
+* End goals: *What the user wants to do*
+* Life goals: *Who the user wants to be*
+
+### Interview Guide
+The interview guide was developed to gain a sound understanding of the financial background starting with his education and training, his current situation and behavior, and his perspective and goals for the future.
+
+#### Introduction
+* Please tell me a little bit about yourself where we are right now. Name, age, marital status, living situation, profession,
+* On the way to becoming [profession], what kind of education did you get?
+* Was there any financial education involved?
+* How does this help you handling your finances today?
+* How happy are you with your current financial situation.
+* Describe how you you were able to answer this question.
+* What is important to you to answer the previous question? 
+* What did you consider and how confident are you to understand your financial landscape?
+
+#### History
+* Looking back, please describe the situation you felt in charge of your own finance for the first time.
+* With power comes responsibility — what were the challenges you faced at that time?
+* Explain a bit how you handled your finances back then.
+
+#### Change over time
+* How did your approach to handling finances change over to until today?
+* Nowadays, what is your motivation to work on your finances?
+
+#### Current workflow
+* What are the tools that you currently use to process your finances?
+* How do you treat financial information in form of documents? This can be statements, bills, tax, receipts, etc.
+* How much time do you need to invest in your tasks and when?
+* What are the challenges and annoyances you encounter in your workflow?
+
+#### Visions for a future workflow
+* What hopes do you have to improve your workflow?
+* How should working with finances feel in an ideal world?
+
+### Interview Situation
+The interviews followed a defined set of questions that transitioned, after a personal introduction, from the participant's first experiences of handling finances to their current workflow with tasks and activities. The interviews concluded with a more open discussion for 30 minutes where the participants were able to steer the topic in whatever area was meaningful to them. All conversations were audio recorded and transcribed for further reference and documentation.
+
+[^1]: (link:http://books.ideo.com text:Human-Centered Design Toolkit), IDEO (2011). ISBN: 9780984645701.

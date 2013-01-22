@@ -9,9 +9,16 @@
   <?php foreach($page->children()->visible()->flip() as $entry): ?>
     <!-- ——————————————————————————————————————————————————————————————————— Post -->
     <div class="span-17 last entry collapsed">
-      <h2 class="entry_title"><a href="<?php echo $entry->url() ?>"><?php echo html($entry->title()) ?></a></h2>
+      <h2 class="entry_title">
+        <a href="<?php echo $entry->url() ?>">
+          <?php echo html($entry->title()) ?>
+          <span class="entry_toggle">Expand</span>
+        </a>
+      </h2>
       <span class="entry_date">
-        <?php echo $entry->date('Y-m-d') ?>
+        <a href="<?php echo $entry->url() ?>">
+          <?php echo $entry->date('Y-m-d') ?>
+        </a>
       </span>
     </div><!-- .span-17 last post-->
     <?php endforeach ?>

@@ -1,0 +1,21 @@
+Title: Interaction Attributes
+----
+Date: 13-01-12
+----
+Updated: 13-01-12
+----
+Text:
+
+The attributes of the previously described interaction techniques that will be considered in the prototypes are listed below. They will be applied solely to visual parameters dismissing alternative manners of representation like audio or physical. To ensure undistorted measurement, the attributes will be tested individually. This means only one parameter will be changed per experiment while the others stay static to prevent false interpretation of the change in perception of the user.
+
+- **Connectivity**: independent → networked
+- **Continuity**: discrete → continuous
+- **Directness**: indirect → direct
+- **Movement**: static → dynamic
+- **Orderliness**: random → orderly
+- **Proximity**: precise → proximate
+- **Pace**: slow → fast
+- **Resolution**: scarce → dense
+- **Speed**: delaying → rapid
+- **State**: fixed vs. changing
+- **Time-depth**: 	concurrent → sequential

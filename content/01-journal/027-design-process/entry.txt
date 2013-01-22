@@ -1,0 +1,37 @@
+Title: Visualization Design Process
+----
+Date: 13-01-06
+----
+Updated: 13-01-06
+----
+Footnotes: true
+----
+
+Text:
+
+To provide an applicable framework for designers developing instruments for data analysis it is mandatory that the framework integrates seamlessly into the general working process. As an important fist step, we need to identify the process of designing and developing interactive information visualizations. Secondly, we need to understand how principles need to be formulated and structured to be applied successfully. In a series of expert interviews[^1] with leading practitioners, various approaches have been collected. Next, the shared steps of the process have been identified through open coding. Ultimately, a generalized process divided into phases with individual goals, activities and outputs have been established.
+
+1. **Inform**	: Have a shared vision for the project.
+2. **Prepare**: Have the data ready for usage.
+3. **Explore**: Understand the texture of the data.
+4. **Discover**: Understand and connect with the contents of the data.
+5. **Sketch**: Testing ideas out visually to come to a quick conclusion.
+6. **Question**: Verify the selected visualization method.
+7. **Design**: Prepare the specification for implementation.
+8. **Develop**: Build a flawlessly working application.
+9. **Evaluate**: Ensure the result is readable, understandable, useful and usable.
+10. **Deliver**: Conclude the project.
+
+### Iterations
+
+What does not come out of this description but is an important part of the design process is the iterative nature of the phases. Together with the experts, I identified two loops where iterations typically happen: 
+
+* In the phases 2 – 6 the visualization concept is developed and if the designer can't answer the questions of phase 6 to satisfaction, an additional loop can help to refine the concept.
+* In the phase 7 – 9 the visualization concept is brought into its final form and if the evaluation phase does not confirm the readability, usability and usefulness of the visualization, an additional loop can help to hone the final visualization.
+
+### Poster
+
+Here is the current version of the process 1.0 as a poster for further reference. Please keep in mind that this is an really version and the activities and goals for each phase are subject to change as I refine the wording.
+(image: process_poster_preview.png link: process_poster.pdf popup:yes)
+
+[^1]: Among the participants are some of the most forward-thinking practitioners at the intersection of academia and industry. The list includes Gregor Aisch, Mike Bostock, Paolo Ciuccarelli, Amanda Cox, Jérôme Cukier, Nicholas Felton, Wes Grubbs, Ben Hosken, Sha Hwang, Andy Kirk, Aaron Koblin, Manuel Lima, Michal Migurski, Deroy Peraza, Sheila Pontis, Stefanie Posavec, Casey Reas, Kim Rees, Robin Richards, Moritz Stefaner, Jan Willem Tulp, and Marius Watz.

@@ -1,0 +1,80 @@
+Title: Related Work
+----
+Date: 13-01-04
+----
+Updated: 13-01-06
+----
+Version: 1.0
+----
+
+Text: 
+
+## Theoretical foundation of this thesis
+
+The following list is a collection of articles, papers, and case studies that form the theoretical foundation of my work on this thesis.
+
+### Information Visualization
+
+K. Börner, “Visual Analytics in Support of Education,” presented at the LAK '12: Proceedings of the 2nd International Conference on Learning Analytics and Knowledge, 2012. (link:http://portal.acm.org/citation.cfm?id=2330601.2330604&coll=DL&dl=ACM&CFID=152169982&CFTOKEN=10503497 text: → popup: yes class: reveal)
+
+S. Bresciani and M. J. Eppler, “The Benefits of Synchronous Collaborative Information Visualization: Evidence from an Experimental Evaluation,” Visualization and Computer Graphics, IEEE Transactions on, vol. 15, no. 6. (link:http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5290714&contentType=Journals+%26+Magazines&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28%22The+Benefits+of+Synchronous+Collaborative+Information+Visualization%3A+Evidence+from+an+Experimental+Evaluation%22%29 text: → popup: yes  class: reveal)
+
+M. C. Chuah and S. F. Roth, “On the semantics of interactive visualizations,” presented at the Information Visualization '96, Proceedings IEEE Symposium on, 1996. (link:http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=559213&contentType=Conference+Publications&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28p_Title%3A%22On+the+Semantics+of+Interactive+Visualizations%22%29 text: → popup: yes class: reveal)
+
+J. Chuang, D. Ramage, C. Manning, and J. Heer, “Interpretation and trust: designing model-driven visualizations for text analysis,” presented at the CHI '12: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2012. (link:http://portal.acm.org/citation.cfm?id=2207676.2207738&coll=DL&dl=GUIDE&CFID=247116118&CFTOKEN=58087929 text: → popup: yes class: reveal)
+
+A. Endert, P. Fiaux, and C. North, “Semantic Interaction for Sensemaking: Inferring Analytical Reasoning for Model Steering,” Visualization and Computer Graphics, IEEE Transactions on, vol. 18, no. 12. (link:http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6327294&contentType=Journals+%26+Magazines&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28%22Semantic+Interaction+for+Sensemaking%3A+Inferring+Analytical+Reasoning+for+Model+Steering%22%29 text: → popup: yes class: reveal)
+
+M. Grabner, “Smooth high-quality interactive visualization,” presented at the Computer Graphics, Spring Conference on, 2001, 2001. (link:http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=945342&contentType=Conference+Publications&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28%22Smooth+high-quality+interactive+visualization%22%29 text: → popup: yes class: reveal)
+
+T. M. Green, W. Ribarsky, and B. Fisher, “Visual Analytics for Complex Concepts Using a Human Cognition Model,” Visual Analytics Science and Technology, 2008. VAST '08. IEEE Symposium on, 2008. (link:http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4677361&contentType=Conference+Publications&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28%22Visual+analytics+for+complex+concepts+using+a+human+cognition+model%22%29 text: → popup: yes class: reveal)
+
+J. Heer and M. Bostock, “Declarative Language Design for Interactive Visualization,” Visualization and Computer Graphics, IEEE Transactions on, vol. 16, no. 6. (link:http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5613453&contentType=Journals+%26+Magazines&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28%22Declarative+Language+Design+for+Interactive+Visualization%22%29 text: → popup: yes class: reveal)
+
+R. Hijon-Neira and A. J. Velazquez-Iturbide, “How to Improve Assessment of Learning and Performance through Interactive Visualization,” presented at the Advanced Learning Technologies, 2008. ICALT '08. Eighth IEEE International Conference on, 2008. (link:http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4561740&contentType=Conference+Publications&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28%22How+to+Improve+Assessment+of+Learning+and+Performance+through+Interactive+Visualization%22%29 text: → popup: yes class: reveal)
+
+J. Horkoff and E. Yu, “Visualizations to Support Interactive Goal Model Analysis,” Requirements Engineering Visualization (REV), 2010 Fifth International Workshop on. (link:http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5625664&contentType=Conference+Publications&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28%22Visualizations+to+support+interactive+goal+model+analysis%22%29 text: → popup: yes class: reveal)
+
+P. Isenberg, A. Tang, and S. Carpendale. “An exploratory study of visual information analysis,” In Proceeding of the Conference on Human Factors in Computing Systems (CHI), pages 1217–1226, New York, USA, 2008. (link:http://portal.acm.org/citation.cfm?id=2399016.2399102&coll=DL&dl=GUIDE&CFID=168855864&CFTOKEN=79140806 text: → popup: yes class: reveal)
+
+P. Isenberg, T. Zuk, C. Collins, and S. Carpendale. Grounded evaluation of information visualizations. In Proc. AVI Workshop on BEyond time and errors: novel evaLuation methods for Information Visualization (BELIV). ACM, 2008. Article 6. (link:http://portal.acm.org/citation.cfm?id=1377966.1377974&coll=DL&dl=GUIDE&CFID=168855864&CFTOKEN=79140806 text: → popup: yes class: reveal)
+
+G.B. Judelman, “Knowledge Visualization: Problems and Principles for Mapping the Knowledge Space,” MSc Thesis Dissertation, International School of New Media, University of Lübeck, Germany. (link:http://www.isnm.de/content/abstracts/GregJudelman_ThesisAbstract.html?keepThis=true&TB_iframe=true&height=400&width=800 text: → popup: yes class: reveal)
+
+L. Micallef, P. Dragicevic, and J.-D. Fekete, “Assessing the Effect of Visualizations on Bayesian Reasoning through Crowdsourcing,” Visualization and Computer Graphics, IEEE Transactions on, vol. 18, no. 12. (link:http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6327259&contentType=Journals+%26+Magazines&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28%22Assessing+the+Effect+of+Visualizations+on+Bayesian+Reasoning+through+Crowdsourcing%22%29 text: → popup: yes class: reveal)
+
+T. Munzner, “Information Visualization: Principles, Methods, and Practice,” Book Draft 2, Sep. 2012. To appear, 2014. (link:http://www.cs.ubc.ca/~tmm/courses/533-11/book/ text: → popup: yes class: reveal)
+
+B. Shneiderman, “The eyes have it: a task by data type taxonomy for information visualizations,” presented at the Visual Languages, 1996. Proceedings., IEEE Symposium on, 1996. (link:http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=545307&contentType=Conference+Publications&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28p_Title%3A%22The+Eyes+Have+It%3A+A+Task+by+Data+Type+Taxonomy+for+Information+Visualizations+-+Visual+Languages%2C+1996.+Proceedings.%2C+IEEE+Symposium+on%22%29 text: → popup: yes class: reveal)
+
+T. Skog, S. Ljungblad, and L. E. Holmquist, “Between aesthetics and utility: designing ambient information visualizations,” Information Visualization, 2003. INFOVIS 2003. IEEE Symposium on, pp. 233–240, 2003. (link:http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1249031&contentType=Conference+Publications&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28p_Title%3A%22Between+Aesthetics+and+Utility%3A+Designing+Ambient+Information+Visualizations%22%29 text: → popup: yes class: reveal)
+
+G. J. Trafton, S. S. Kirschenbaum, T. L. Tsui, R. T. Miyamoto, J. A. Ballas, and P. D. Raymond, “Turning pictures into numbers: extracting and generating information from complex visualizations,” International Journal of Human-Computer Studies, vol. 53, no. 5, pp. 827–850, Nov. 2000. (link:http://linkinghub.elsevier.com/retrieve/pii/S1071581900904191 text: → popup: yes class: reveal)
+
+D. Yao, M. Shin, R. Tamassia, and W. H. Winsborough, “Visualization of Automated Trust Negotiation,” Visualization for Computer Security, 2005. (VizSEC 05). IEEE Workshop on, 2005. (link:http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1532067&contentType=Conference+Publications&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28%22Visualization+of+automated+trust+negotiation%22%29 text: → popup: yes class: reveal)
+
+J. S. Yi, Y. A. Kang, J. T. Stasko, and J. A. Jacko, “Toward a Deeper Understanding of the Role of Interaction in Information Visualization,” Visualization and Computer Graphics, IEEE Transactions on, vol. 13, no. 6, Nov. 2007. (link:http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4376144&contentType=Journals+%26+Magazines&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28%22Toward+a+Deeper+Understanding+of+the+Role+of+Interaction+in+Information+Visualization%22%29 text: → popup: yes class: reveal)
+
+### Interaction Design
+
+M. Carvalhais, “Learning and studying interaction design through design patterns,” presented at the PLoP '08: Proceedings of the 15th Conference on Pattern Languages of Programs, 2008. (link:http://portal.acm.org/citation.cfm?id=1753196.1753210&coll=DL&dl=ACM&CFID=152169982&CFTOKEN=10503497 text: → popup: yes class: reveal)
+
+Y.-K. Lim, E. Stolterman, H. Jung, and J. Donaldson, “Interaction gestalt and the design of aesthetic interactions,” presented at the DPPI '07: Proceedings of the 2007 conference on Designing pleasurable products and interfaces, 2007. (link:http://portal.acm.org/citation.cfm?id=1314161.1314183&coll=DL&dl=ACM&CFID=152169982&CFTOKEN=10503497 text: → popup: yes class: reveal)
+
+E. Stolterman, “The Nature of Design Practice and Implications for Interaction Design Research,” pp. 1–11, Jun. 2008. (link:http://www.ijdesign.org/ojs/index.php/IJDesign/article/view/240 text: → popup: yes class: reveal)
+
+### Persuasive Design
+
+D. Lockton, D.J. Harrison, N.A. Stanton. “The Design with Intent Method: a design tool for influencing user behaviour,” Applied Ergonomics, Vol.41 No.3, 382-392. (link:http://www.ncbi.nlm.nih.gov/pubmed/19822311 text: → popup: yes class: reveal)
+
+C. Risdon, “Behavior Change as Value Proposition,” Retrieved April 25, 2012, from http://adaptivepath.com/ideas/behavior-change-as-value-proposition. (link:http://adaptivepath.com/ideas/behavior-change-as-value-proposition text: → popup: yes class: reveal)
+
+### Experiment Evaluation
+
+H. Lam, E. Bertini, P. Isenberg, C. Plaisant, S. Carpendale. Seven Guiding Scenarios for Information Visualization Evaluation. University Of Calgary Techreport #2011-992-04, 2011. (link:http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6095544&contentType=Journals+%26+Magazines&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28p_Title%3A%22Empirical+Studies+in+Information+Visualization%3A+Seven+Scenarios%22%29 text: → popup: yes class: reveal)
+
+T. Munzner, “A Nested Model for Visualization Design and Validation,” Visualization and Computer Graphics, IEEE Transactions on, vol. 15, no. 6. (link:http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5290695&contentType=Journals+%26+Magazines&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28p_Title%3A%22A+Nested+Model+for+Visualization+Design+and+Validation%22%29 text: → popup: yes class: reveal)
+
+### Finance Education
+
+M. Manz, “Financial Education – Rolle und internationale Entwicklung” Die Volkswirtschaft, 2011/6, 57-60. (link:http://www.dievolkswirtschaft.ch/de/editions/201106/pdf/Manz.pdf text: → popup: yes class: reveal)

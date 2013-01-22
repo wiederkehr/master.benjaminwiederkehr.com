@@ -8,4 +8,4 @@ Text:
 
 After the semester break during the summer of 2012 we had a presentation to discuss the progress made between the semesters and the next steps.
 
-The full presentation can be viewed on (link:https://speakerdeck.com/wiederkehr/state-of-play text:Speaker Deck).
+The full presentation can be viewed on (link:https://speakerdeck.com/wiederkehr/master-state-of-play text:Speaker Deck popup:yes).

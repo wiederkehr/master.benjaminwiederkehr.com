@@ -1,0 +1,20 @@
+Title: User Activities
+----
+Date: 13-01-12
+----
+Updated: 13-01-12
+----
+Text:
+
+During the observation the user will be asked to answer a set of questions by using the instrument. These are examples for basic question-driven activities with personal finances:
+
+- How does a reduction of [a] impact my wealth?
+- How does an increase in [b] impact my wealth?
+- How would my liquidity look like in the case of [c]?
+- Can I afford to buy [d]?
+- When can I afford to increase my spending for [e]?
+- How much do I spend for [f]?
+- How do I have to change my spending to achieve [g]?
+- If I didn't do [h], how would my wealth look like?
+
+These types of activities can be abstracted into the sequence of **Question → Information → Answer** and can be seen as an alternative to the goal-driven activity as represented by the sequence **Goal → Tasks → Action** steps. The main difference is the focus on content in the question-driven sequence and focus on functionality in the goal-driven sequence.

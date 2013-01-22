@@ -1,0 +1,11 @@
+Title: Presentation 5: Prototype
+----
+Date: 13-01-12
+----
+Updated: 13-01-12
+----
+Text:
+
+In the fifth presentation, the focus lied on the prototypes for our experiments. Although I was busy building some examples of visualizations to analyze financial data, the outcome wasn't very satisfactorily just yet. Therefore, I only showed a few simple examples together with my conclusion that the visualizations need to be more sophisticated to really evaluate the impact of the interaction attributes as described (link: journal/interaction-attributes text:here).
+
+The full presentation can be viewed on (link:https://speakerdeck.com/wiederkehr/master-prototype text:Speaker Deck popup:yes).

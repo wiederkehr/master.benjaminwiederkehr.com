@@ -1,0 +1,17 @@
+Title: Interaction Techniques
+----
+Date: 13-01-12
+----
+Updated: 13-01-12
+----
+Text:
+
+The interaction techniques accessible in the instrument center around a set of primitive actions as described by Yi et al. in their paper «Toward a Deeper Understanding of the Role of Interaction in Information Visualization» (Yi, Kang, Stasko, Jacko, 2007). Following is the list of interaction techniques to be evaluated in the experiments with the prototypes. The name of the action is complemented by a more descriptive phrase that represents the user's perspective of what can be achieved by interacting with the visualization.
+
+- **Select**: Mark something as interesting.
+- **Explore**: Show me something else.
+- **Reconfigure**: 	Show me a different arrangement.
+- **Encode**: Show me a different representation.
+- **Level of Detail**: Show me more or less detail.
+- **Filter**: Show me something conditionally.
+- **Connect**: Show me related items.

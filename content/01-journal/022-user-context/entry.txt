@@ -1,0 +1,30 @@
+Title: User Context
+----
+Date: 13-01-06
+----
+Updated: 13-01-06
+----
+Text:
+
+In the interviews with the user group, three different context for working with financial information have been identified.
+(image:user_context_preview.png link:user_context.pdf popup:yes)
+
+### Context 1: Work
+The first and most obvious one is the intentional handling of finances as part of a periodical activity to take finance-related actions. This includes paying bills, making transactions, reviewing banking statements, and the likes. Most of these activities require personal financial information at hand to support decisions and to conduct actions, therefore these routines happened for the majority of people in a working environment like the home office if done electronically. Alternatively, a certain group of the target audience still prefers to take these actions directly in the actual bank.
+
+- **Location**: Desk, Desktop computer / Laptop, Documents, Calculator, Notes
+- **Tasks**: Transactions, Controlling (Spending behavior, Categorization, Wealth, Flow), Planning (Budgeting, Goals), Paying (Recurring payments, Large amounts)
+
+### Context 2: Casual
+The second context is a less obvious one and isn't consciously identified by the user group as an active handling of finance. These are the moments of internal contemplation, of collaboration or discussion with one's spouse, or of loose financial planning and goal making. These activities happen spontaneously and with no clearly defined timeframe or set of results. Nonetheless, these are important moments where long-term decision happen oftentimes with in collaborative process with an informal or personal consultant.
+
+- **Locations**: Kitchen table, Couch, Car
+- **Tasks**: Consulting, Discussion, Decision making (Long term)
+
+### Context 3: Mobile
+The third context is the ubiquitous situation of making financial transaction of small amounts with short term impacts. These activities require no thoughtful decision-making and typically happen out of necessity or desire. As these are low risk decision with a low long-term impact, oftentimes no additional financial information is needed beyond the confirmation of available financial resources.
+
+- **Locations**: Bank, Post Office, Store
+- **Tasks**: Paying (Small amounts), Tracking (Manual input), Decision making (Short term)
+
+Looking at the available applications and distribution of long-term, high-impact decisions, I have decided to focus my work on this thesis on the context «Casual». The different locations and the open-endedness of the activities require special attention when selecting the appropriate technology that will power the instrument. A multi-touch tablet is, based on its physical features and computational power, predestined to be a good fit. Of course, this has to be confirmed with the user group later on in the evaluation of the prototypes.

@@ -1,0 +1,39 @@
+Title: Visualization and Interaction Concepts
+----
+Date: 13-01-17
+----
+Updated: 13-01-17
+----
+Text:
+
+While working on the prototype environment, I took one step back to collect all the pieces that are currently flying around and bring them into visual form. Some of the sketches simply represent visualization ideas for specific dimensions of the financial data set. Others illustrate functional concepts e.g. how the user explores, analyzes and manipulates the data and the visualization.
+
+### Visualization
+(image:sketch_balance_aligned.png width:670)
+(image:sketch_balance.png width:670)
+Two different layout versions to show the earning and spending in conjunction with the overall balance.
+
+(image:sketch_categories.png width:670)
+A simple representation of the earning and spending categories as parts of a whole. During implementation labeling has been very difficult and the overall visualization doesn't provide much information that can be analyzed. Further concepts could be to nest the categories and then make the subcategories accessible through drilling down. 
+
+(image:sketch_categories_timebased.png width:670)
+Another visualization of the categories but this one shows the categories over time. This tells a much more interesting story as it allows the user to examine how his behavior has changed over time instead of just looking at the status quo (although this may be of importance for certain use cases).
+
+(image:sketch_comparison.png width:670)
+A very simple and easy to understand comparison with different benchmarks like anonymized peer groups or a historic view on the personal average.
+
+(image:sketch_projection.png width:670)
+A concept to show uncertainty and variance in the model applied to the projected timeline.
+
+### Interaction
+(image:sketch_manipulation.png width:670)
+This concept could be part of an interface to manipulate a financial model: Directly interacting with the spending categories connects the mental model of the saving goal with the actual spending objects and therefore makes the required changes in behavior more tangible to the user.
+
+(image:sketch_goal.png width:670)
+This concept allows the user to setup a financial goal on his projected timeline. The visualization shows the additional saving to achieve the financial goal. Positioning the goal should be as direct as possible e.g. by simple dropping it on the timeline and reposition it with the immediate response from the other visual elements (the calculated delta).
+
+(image:sketch_modelling.png width:670)
+This concept allows to quickly evaluate the impact of events and the relation between longterm outcome and time stamp of the event.
+
+(image:sketch_scenario.png width:670)
+This is both a visualization and an interaction concept for adding a spending plan and evaluating the longterm impact of such a decision. Changes to the date of spending and the amount should be as fluid as possible to allow playful experimentation.
