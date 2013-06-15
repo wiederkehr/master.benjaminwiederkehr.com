@@ -3,6 +3,12 @@
 // direct access protection
 if(!defined('KIRBY')) die('Direct access is not allowed');
 
+// default param separator
+if(!c::get('uri.param.separator')) {
+  // check for linux or windows
+  c::set('uri.param.separator', (DIRECTORY_SEPARATOR == '/') ? ':' : ';');
+}
+
 class uri {
 
   function __construct($uri=false) {
@@ -12,6 +18,7 @@ class uri {
     $this->params    = new uriParams();
     $this->query     = new uriQuery(str::parse(server::get('query_string'), 'query'));
     $this->extension = false;
+    $this->original  = $_SERVER['REQUEST_URI'];
     $this->raw       = $this->raw($uri);
     $this->url       = url(ltrim($this->raw, '/'));
         
@@ -24,10 +31,14 @@ class uri {
     return $this->toString();
   }
 
-  function raw($uri=false) {
-    $raw = ($uri) ? $uri : ltrim(server::get('request_uri'), '/');
+  static function raw($uri=false) {
+    $raw = ($uri) ? $uri : ltrim($_SERVER['REQUEST_URI'], '/');
+    $raw = ltrim(str_replace('index.php', '', $raw), '/');
+
     // strip subfolders from uri    
-    if(c::get('subfolder')) $raw = ltrim(preg_replace('!^' . preg_quote(c::get('subfolder')) . '\/!i', '/', $raw), '/');
+    if(c::get('subfolder'))    $raw = ltrim(preg_replace('!^' . preg_quote(c::get('subfolder')) . '(\/|)!i', '/', $raw), '/');
+    if(c::get('lang.support')) $raw = ltrim(preg_replace('!^' . preg_quote(c::get('lang.current')) . '(\/|)!i', '/', $raw), '/');
+            
     return $raw;
   }
 
@@ -39,8 +50,8 @@ class uri {
             
     // parse params
     foreach($path AS $p) {
-      if(str::contains($p, ':')) {
-        $parts = explode(':', $p);
+      if(str::contains($p, c::get('uri.param.separator'))) {
+        $parts = explode(c::get('uri.param.separator'), $p);
         if(count($parts) < 2) continue;
         $this->params->$parts[0] = $parts[1];
       } else {
@@ -179,7 +190,7 @@ class uriParams extends obj {
   function toString() {
     $output = array();
     foreach($this->_ as $key => $value) {
-      $output[] = $key . ':' . $value;
+      $output[] = $key . c::get('uri.param.separator') . $value;
     }        
     return implode('/', $output);
   }
@@ -198,4 +209,3 @@ class uriQuery extends obj {
   
 }
 
-?>

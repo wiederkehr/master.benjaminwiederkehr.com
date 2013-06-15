@@ -4,6 +4,8 @@ Date: 12-09-19
 ----
 Updated: 12-11-14
 ----
+Tags: Process
+----
 Text:
 
 After the final colloquium, I felt not completely satisfied with the state of the disposition I handed in. The jury correctly pointed out the missing stringency between the topical introduction and my main research focus. After taking some time to refine this part, I have now a version that fits nicely together and paints a much clearer picture of the road I am trying to follow. So, here's the new version 1.3 of my (link:disposition).

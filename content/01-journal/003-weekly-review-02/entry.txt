@@ -4,6 +4,8 @@ Date: 12-03-03
 ----
 Updated: 12-03-03
 ----
+Tags: Process
+----
 Text:
 In the Minor lecture on Monday Stephan Trüby introduced an very interesting thought: Post-reflected design is more effective than design guided by theory. Stephan invited us to get started with what we are excited about and eventually reflect on it and reverse engineer the underlying theory. This is a process I haven't considered in my previous work and is something I'd like to experiment with. We also had the chance to listen to Master of Arts in Design alumni and they shared some of their epxeriences with us. Some thoughts I found very intruiging are:
 

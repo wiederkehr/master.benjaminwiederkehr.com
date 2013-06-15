@@ -2,9 +2,9 @@ Title: Disposition
 ----
 Date: 12-04-16
 ----
-Updated: 12-11-14
+Updated: 13-05-10
 ----
-Version: 1.3
+Version: 1.4
 ----
 Footnotes: true
 ----
@@ -15,7 +15,11 @@ Text:
 Creating immersive experiences through discovery, verification and understanding while handling personal financial information.
 
 ## Abstract
-Visual representation of financial information can help people to analyze their earning, spending and saving behavior by identifying recurring patterns and emerging trends. Understanding and validating the output of such a representation is a task that requires visualization literacy that highly depends on the configuration of content and the presentation of the data. Furthermore, the user's context and capabilities define how the presented information can be transformed into applied knowledge that is required to facilitate sensible planning and informed decisions. In this thesis, design considerations will be offered that support the interpretation and the utilization of personal financial information for users. These considerations derive from the development and evaluation of an instrument for accessing and handling personal financial information and a preliminary review of existing solutions. The taken approach will be validated during user tests of a series of prototypes and it will be reported how the affordances of the prototypes were perceived in specific use cases. Based on the findings from this work, a set of design recommendations for interactive visual analysis tools that support an intuitively accessible, memorable and actionable comprehension will be distilled.
+This thesis investigates optimized models for reasoning on complex information through the use of visual representation, exploratory interaction and collaborative evaluation. The work is grounded on existing research on visual analytics for learning and education, the role of interaction in information visualization and the insights gained from a user centered design approach.
+
+Exploratory Tools are a series of connected interactive visualizations for portable, multi-touch capable devices. The aim of these visualizations is to facilitate accessible, memorable and actionable understanding and to transform this into applied knowledge. The present application is focused exemplary on the handling of financial information for laymen and encompasses theoretical fundamentals, personal data and the integration of a social layer for validation and comparison.
+
+The influence of visualization and interaction attributes on the perceived understandability of information systems has been evaluated in a series of experiments. Subsequently, practical design guidelines were derived from the validated best practices. The aim of these principles is to guide future designers of such systems towards leveling the user’s capabilities with the complexity of the information domain.
 
 ## Introduction
 

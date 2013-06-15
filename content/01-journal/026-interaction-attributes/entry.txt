@@ -4,6 +4,8 @@ Date: 13-01-12
 ----
 Updated: 13-01-12
 ----
+Tags: Research
+----
 Text:
 
 The attributes of the previously described interaction techniques that will be considered in the prototypes are listed below. They will be applied solely to visual parameters dismissing alternative manners of representation like audio or physical. To ensure undistorted measurement, the attributes will be tested individually. This means only one parameter will be changed per experiment while the others stay static to prevent false interpretation of the change in perception of the user.

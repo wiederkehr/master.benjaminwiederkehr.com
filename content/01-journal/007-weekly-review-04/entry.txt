@@ -4,6 +4,8 @@ Date: 12-03-31
 ----
 Updated: 12-03-31
 ----
+Tags: Process
+----
 Text:
 The goal for this week's workshop conducted by Moritz Kemper about interaction design prototyping methods was to get used to working with physical computing. This means bridging the gap between computers and physical objects by reading and writing data back and forth using the Arduino environment and Processing. I hacked together a few playful gadgets using light sensors, potentiometers and accellerometers. The outcome should be seen rather as excercises than serious deliverables, but it got me started in writing code again and was a lot of fun.
 

@@ -1,0 +1,13 @@
+Title: Presentation 6: Prototype 2
+----
+Date: 13-01-17
+----
+Updated: 13-01-17
+----
+Tags: Process
+----
+Text:
+
+In the sixth presentation, the focus lied again on the prototypes for our experiments. I refined the prototypes towards testing the interaction attributes and optimized them for ᵗʰthe use on tablet devices like the Apple iPad.
+
+The full presentation can be viewed on (link:https://speakerdeck.com/wiederkehr/master-prototype-2 text:Speaker Deck popup:yes).

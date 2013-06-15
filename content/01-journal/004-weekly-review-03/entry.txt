@@ -4,6 +4,8 @@ Date: 12-03-10
 ----
 Updated: 12-03-10
 ----
+Tags: Process
+----
 Text:
 The goal for this week's workshop conducted by Stefano Vannotti, Franziska Nyffenegger and Björn Franke about research oriented project development is the development of a clear and precise research plan, the articulation of the question and hypothesis for our research and three artifacts to communicate our project. The required deliverable consists of the abstract for our work, a slideshow that represents the field in which we conduct our research and a flyer to communicate it.
 

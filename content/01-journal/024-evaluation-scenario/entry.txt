@@ -4,6 +4,8 @@ Date: 13-01-12
 ----
 Updated: 13-01-12
 ----
+Tags: Research
+----
 Text:
 
 The scenario selected for the evaluation of this thesis centers around «understandability» as the quality of an artifact required for the mental process of a human to think about and handle it adequately. More precisely, the scenario for the evaluation of visual data analysis and reasoning as described by Lam et al. (Lam, Bertini, Isenberg, Plaisant, Carpendale, 2011)[^1] has been selected.

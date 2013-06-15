@@ -4,6 +4,8 @@ Date: 13-01-17
 ----
 Updated: 13-01-17
 ----
+Tags: Design
+----
 Text:
 
 While working on the prototype environment, I took one step back to collect all the pieces that are currently flying around and bring them into visual form. Some of the sketches simply represent visualization ideas for specific dimensions of the financial data set. Others illustrate functional concepts e.g. how the user explores, analyzes and manipulates the data and the visualization.

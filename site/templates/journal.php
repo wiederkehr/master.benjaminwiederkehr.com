@@ -6,7 +6,21 @@
     <h3 class="ui">Journal</h3>
   </div>
   <div class="span-17 last journal">
-  <?php foreach($page->children()->visible()->flip() as $entry): ?>
+  <?php
+    if(param('tag')) {
+      $articles = $pages->find('journal')
+                        ->children()
+                        ->visible()
+                        ->filterBy('tags', param('tag'), ',')
+                        ->flip();
+    } else {
+      $articles = $pages->find('journal')
+                        ->children()
+                        ->visible()
+                        ->flip();
+    }
+    foreach($articles as $entry): 
+  ?>
     <!-- ——————————————————————————————————————————————————————————————————— Post -->
     <div class="span-17 last entry collapsed">
       <h2 class="entry_title">

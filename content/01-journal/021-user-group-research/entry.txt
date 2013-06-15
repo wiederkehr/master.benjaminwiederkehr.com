@@ -6,6 +6,8 @@ Updated: 13-01-09
 ----
 Footnotes: true
 ----
+Tags: Research
+----
 Text:
 
 The sound understanding of the target audience forms the groundwork of all consecutive activities and is achieved with the analysis of the human factors and the user scenarios. An in-depth investigation using contextual inquiry and individual interviews with a user group of five people shaped the creation of the user archetypes as well as their scenarios. The user research was conducted in the same environment where financial decisions and planning are made. This ensures that the discoveries arise from the authentic situation under consideration of the real environment and the available information that is most important for the tasks at hand.

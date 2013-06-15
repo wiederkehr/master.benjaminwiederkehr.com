@@ -1,0 +1,13 @@
+Title: Presentation 7: Evaluation
+----
+Date: 13-05-02
+----
+Updated: 13-05-02
+----
+Tags: Process
+----
+Text:
+
+In the seventh presentation, I was asked to talk about the experiments with the prototypes and the key findings from the evaluation.
+
+The full presentation can be viewed on (link:https://speakerdeck.com/wiederkehr/master-evaluation text:Speaker Deck popup:yes).

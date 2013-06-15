@@ -4,6 +4,8 @@ Date: 12-04-06
 ----
 Updated: 12-04-06
 ----
+Tags: Design
+----
 Text:
 In a three day long workshop, Max Rheiner introduced us to computer vision to working with Processing and the (link:http://en.wikipedia.org/wiki/Kinect text:Kinect), a motion sensing input device by Microsoft. This piece of technology makes it easy to use camera tracking and thus create interfaces that allow the user to interact with his whole body. After understanding the basic principles on how to work with the signals coming in from the camera we were free to explore the endless possibilities.
 

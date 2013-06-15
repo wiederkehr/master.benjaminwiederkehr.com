@@ -6,6 +6,8 @@ Updated: 12-11-20
 ----
 Footnotes: true
 ----
+Tags: Process
+----
 Text:
 
 During the (link:http://junior-research.ch text:Junior Design Research Conference) at the Université Ouvrière de Genève on November 15th 2012 I had the opportunity to conduct a workshop that centered around my general research topic. While information design might be relevant to some fellow design researchers as well, I decided to focus on persuasive design. If I try to understand how the presentation of information influences people's comprehension, it's crucial to also understand how our design decision can impact the way we present the information.

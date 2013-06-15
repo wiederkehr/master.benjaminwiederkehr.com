@@ -4,6 +4,8 @@ Date: 13-01-12
 ----
 Updated: 13-01-12
 ----
+Tags: Experiment
+----
 Text:
 
 During the observation the user will be asked to answer a set of questions by using the instrument. These are examples for basic question-driven activities with personal finances:
