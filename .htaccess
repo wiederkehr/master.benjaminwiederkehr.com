@@ -27,7 +27,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 # 
 # RewriteBase /mysite
 # 
-RewriteBase /
+RewriteBase /master.benjaminwiederkehr.com
 
 # block text files in the content folder from being accessed directly
 RewriteRule ^content/(.*)\.(txt|md|mdown)$ error [R=301,L]

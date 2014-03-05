@@ -37,7 +37,8 @@ Make sure to write the url without a trailing slash.
  
 */
 
-c::set('url', false);
+// c::set('url', false);
+c::set('url', 'http://localhost:8888/master.benjaminwiederkehr.com');
 
 
 /* 
@@ -55,7 +56,7 @@ http://yourdomain.com/index.php/about
 
 */
 
-c::set('rewrite', false);
+c::set('rewrite', true);
 
 
 /* 
@@ -97,9 +98,7 @@ RewriteBase /subfolder
 */
 
 // c::set('subfolder', false);
-
-c::set('subfolder', '~Benjamin/BenjaminWiederkehr/06%20Code/master.benjaminwiederkehr.com');
-c::set('url', 'http://localhost/~Benjamin/BenjaminWiederkehr/06%20Code/master.benjaminwiederkehr.com');
+c::set('subfolder', 'master.benjaminwiederkehr.com');
 
 
 /* 
