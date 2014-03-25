@@ -5,10 +5,7 @@
     <h3 class="ui">About</h3>
   </div>
   <div class="sidebar_content">
-    <p class="lead">
-      Hello, I am Benjamin,<br/> 
-      User Experience Designer from Z&uuml;rich.
-      This is where I document my Master study in Interaction Design.
+    <p class="lead">Hello, my name is Benjamin. I'm Interaction & Information Designer from Zürich. This is where I document my design research as Master of Arts in Interaction Design.
     </p>
   </div>
   <?php endif ?>
@@ -37,7 +34,7 @@
   <?php endif ?>
   <?php if ($page->title() == 'Home') : ?>
   <div class="sidebar_title">
-    <h3 class="ui">Information</h3>
+    <h3 class="ui">Context</h3>
   </div>
   <div class="sidebar_content">
     <dl>

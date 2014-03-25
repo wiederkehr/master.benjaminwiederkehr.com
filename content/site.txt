@@ -2,7 +2,7 @@ Title: Benjamin Wiederkehr's Master Thesis
 ----
 Author: Benjamin Wiederkehr
 ----
-Description: Hello, I am Benjamin, User Experience Designer from Zürich. This is where I document my design research as Master of Arts in Interaction Design.
+Description: Hello, my name is Benjamin. I'm Interaction & Information Designer from Zürich. This is where I document my design research as Master of Arts in Interaction Design.
 ----
 Keywords: Benjamin Wiederkehr, Master of Arts in Design, Interaction Design, ZHDK, IAD, SDFB, IDE
 ----

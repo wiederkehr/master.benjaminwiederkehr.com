@@ -1,10 +1,10 @@
-Title: Principles For Learning by Exploration
+Title: Principles For Learning by Exploring
 ----
 Date: 12-05-04
 ----
 Updated: 12-05-06
 ----
-Tags: Research
+Tags: Research, Essential
 ----
 Text:
 Learning by exploration is the process where a user builds an understanding for a subject matter through an interacting with the content at hand. For example, forming a lumb of clay with you own hands. As for digital information on a micro level, this means being tweak the representation and see the immediate reaction. On a macro level, this could mean to load different sets of information on the screen and then be able to compare and combine them. Following are some principles that repeatedly come up in conversations with my mentors and advisors.

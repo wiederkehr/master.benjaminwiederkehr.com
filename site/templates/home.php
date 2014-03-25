@@ -9,12 +9,16 @@
     <?php echo kirbytext($page->text()) ?>
   </div>
   <div>
-    <h3 class="ui">Latest Journal Entries</h3>
+    <h3 class="ui">Core Contributions</h3>
   </div>
   <div class="journal">
   <?php
-    $journal = $pages->find('journal');
-    foreach($journal->children()->visible()->flip()->limit(3) as $entry):
+    $articles = $pages->find('journal')
+                        ->children()
+                        ->visible()
+                        ->filterBy('tags', 'Essential', ',')
+                        ->flip();
+    foreach($articles as $entry): 
   ?>
     <!-- ——————————————————————————————————————————————————————————————————— Post -->
     <div class="entry span-17 last">
