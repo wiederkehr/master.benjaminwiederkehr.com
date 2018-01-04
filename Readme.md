@@ -14,6 +14,8 @@ Deploy changed files to server via FTP.
 * [Kirby](https://getkirby.com/)
 * [jQuery 2.0.2](https://github.com/jquery/jquery)
 * [Orbit](https://github.com/zurb/orbit)
+* [FontAwesome](https://fontawesome.com/)
+* [Typekit](https://typekit.com/)
 
 ## Author
 [Benjamin Wiederkehr](http://benjaminwiederkehr.com)
