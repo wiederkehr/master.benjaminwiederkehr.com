@@ -12,7 +12,7 @@ Deploy changed files to server via FTP.
 
 ## Dependencies
 * [Kirby](https://getkirby.com/)
-* [jQuery](https://github.com/jquery/jquery)
+* [jQuery 2.0.2](https://github.com/jquery/jquery)
 * [Orbit](https://github.com/zurb/orbit)
 
 ## Author
