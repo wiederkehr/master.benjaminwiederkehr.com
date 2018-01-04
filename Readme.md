@@ -11,9 +11,9 @@ Nothing to install.
 Deploy changed files to server via FTP.
 
 ## Dependencies
-[Kirby](https://getkirby.com/)
-[jQuery](https://github.com/jquery/jquery)
-[Orbit](https://github.com/zurb/orbit)
+* [Kirby](https://getkirby.com/)
+* [jQuery](https://github.com/jquery/jquery)
+* [Orbit](https://github.com/zurb/orbit)
 
 ## Author
 [Benjamin Wiederkehr](http://benjaminwiederkehr.com)
