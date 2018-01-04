@@ -1,0 +1,181 @@
+@charset "utf-8";
+/*
+Master Styles
+Description:	Layout and element specific styling for the master thesis page
+Author:     	Benjamin Wiederkehr
+Start:      	111217_BW
+Last update:	160531_BW
+
+/* OVERWRITE
+/////////////////////////////////////////////////////////////////*/
+body							{	font-size: 87.5%;}
+h1, h2, .post h3, .entry h3 { font-family: "ff-netto-web",sans-serif;}
+
+/* HEADER
+/////////////////////////////////////////////////////////////////*/
+#header         						{ height: 170px; position: relative; padding: 30px 0 0;}
+#header h1      	{ font-size: 44px; margin: 0; letter-spacing: -2.5px; line-height: 1;}
+#header h1 a    	{ display: block; color: rgba(200, 200, 200, 0.9); text-shadow: 0 1px 0px #fff, 0 0 0 #444; transition: color 0.2s;}
+#header h1 a:hover{ color: rgba(60, 60, 60, 0.9);}
+#header .title    { font-weight: bold; display: block;}
+#header .subtitle { font-weight: normal; display: block;}
+
+/* CONTENT
+/////////////////////////////////////////////////////////////////*/
+#content			{ padding: 0 0 60px;}
+.post					{ border-top: 3px solid #d4d5d3; border-bottom: 1px solid #d4d5d3; padding-bottom: 36px; margin-bottom: 36px; position: relative;}
+h2						{ margin:  1.8em 0 1em;}
+h3						{ font-weight: bold; margin-bottom: 0.5em;}
+h3.ui					{ color: #bbb; font-size: 10px; font-weight: normal; margin-bottom: 2px; text-transform: uppercase;}
+h3.ui a				{ color: #bbb; font-weight: normal;}
+h3.ui a:hover	{ color: #444; }
+.entry a:hover,
+.post a:hover{ text-decoration: underline;}
+
+/* REVEAL
+/////////////////////////////////////////////////////////////////*/
+a.reveal          { visibility: hidden;}
+p:hover a.reveal  { visibility: visible;}
+
+/* HOME
+/////////////////////////////////////////////////////////////////*/
+.home .introduction { border-top: 3px solid #d4d5d3; padding: 40px 0;}
+.home .entry_date	  { top: 18px;}
+
+/* JOURNAL
+/////////////////////////////////////////////////////////////////*/
+.journal			{ border-top: 3px solid #d4d5d3;}
+.entry				{ border-bottom: 1px solid #d4d5d3; position: relative;}
+.entry h2			{ margin:  1.8em 0 1.8em;}
+.entry h2 a   { display: block;}
+.entry h2 a:hover,
+.entry h3 a:hover{ text-decoration: none;}
+.entry h2 a .entry_toggle{
+  background: url("../img/toggle_btn.png") 0 0 no-repeat;
+  display: none;
+  height: 20px;
+  width: 20px;
+  left: -30px;
+  top: 46px;
+  position: absolute;
+  text-indent: -9999px;
+}
+.entry h2:hover a .entry_toggle,
+.entry.expanded h2 a .entry_toggle{
+  display: block;
+}
+.entry h2:hover a .entry_toggle{
+  -webkit-transition: all 300ms ease-in;
+  -moz-transition: all 300ms ease-in;
+  -o-transition: all 300ms ease-in;
+  -ms-transition: all 300ms ease-in;
+  transition: all 300ms ease-in;
+}
+.entry.expanded h2 a .entry_toggle{
+  -moz-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.entry_date{
+  position: absolute;
+  right: 0;
+  top: 44px;
+}
+.entry_date a{
+  font: italic 12px/18px "Georgia", Georgia, serif;
+  color: #aaa;
+}
+.entry_date a:hover{
+  color: #444;
+  text-decoration: none;
+}
+.expanded .entry_text{
+  padding-bottom: 40px;
+}
+.entry img,
+.post img{
+  -webkit-box-shadow:  0px 1px 3px 0px rgba(170, 170, 170, 1);
+  box-shadow:  0px 1px 3px 0px rgba(170, 170, 170, 1);
+}
+/* SIDEBAR
+/////////////////////////////////////////////////////////////////*/
+#sidebar a							{ color: #aaa; font-weight: bold; text-decoration: none;}
+#sidebar a:hover				{ color: #444;}
+#sidebar p							{ font-size: 11px; margin: 0 0 40px;}
+#sidebar p.lead					{ font: italic 14px/21px "Georgia", Georgia, serif; color: #aaa; margin-top: 40px;}
+#sidebar h3							{ color: #bbb; font-size: 10px; padding-bottom: 2px; margin-bottom: 15px; text-transform: uppercase; border-bottom: 3px solid #d4d5d3;}
+#sidebar ul							{ list-style: none; margin: 0 0 40px; padding: 0;}
+#sidebar ul li					{ font-size: 11px; }
+#sidebar ul li a				{ line-height: 20px; display: block; border-bottom: 1px solid #d4d5d3;}
+#sidebar ul li a:hover	{ text-decoration: none; border-bottom: 1px solid #bbb; outline: none;}
+#sidebar ul li a.active	{ border-bottom: 1px solid #bbb; color: #444;}
+#sidebar dl							{ font-size: 11px; margin: 0 0 40px;}
+#sidebar dt							{ float: none; margin-top: 1em;}
+#sidebar dd							{ }
+
+.sidebar_content p			{ color: #bbb;}
+
+/* SLIDER
+/////////////////////////////////////////////////////////////////*/
+.orbit-wrapper{
+  clear: both;
+}
+.orbit-wrapper #slider {
+  width: 670px;
+  height: 503px;
+  background-color: #efefec;
+}
+.orbit-wrapper #slider img{
+  background: #efefec;
+}
+.orbit-wrapper div.slider-nav span {
+  width: 30px;
+  height: 30px;
+  margin-top: -15px;
+}
+
+.orbit-wrapper div.slider-nav span.right {
+  right: -40px;
+}
+
+.orbit-wrapper div.slider-nav span.left {
+  left: -40px;
+}
+
+/* FOOTNOTES
+/////////////////////////////////////////////////////////////////*/
+.footnotes{
+  padding-top: 36px;
+}
+.footnotes hr{
+  margin-bottom: 36px;
+}
+.footnotes ol {
+	font-size: 0.85em;
+	margin-top: 1.5em;
+	padding-top: 1.5em;
+}
+.footnotes ol li{
+  padding-left: 1.5em;
+}
+sup{
+	font-size: 0.71em;
+	padding-left: 3px;
+}
+sup a[rel="footnote"] {
+	text-decoration: none;
+}
+a.footnoteBackref, a.footnoteLink {
+	text-decoration: none;
+}
+/* VERSION
+/////////////////////////////////////////////////////////////////*/
+.version{
+  font: italic 12px/18px "Georgia", Georgia, serif; color: #aaa;
+  text-align: center;
+  padding-bottom: 36px;
+  padding-top: 1.5em;
+  margin-bottom: 36px;
+}

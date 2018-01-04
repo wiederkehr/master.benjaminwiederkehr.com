@@ -12,9 +12,6 @@ DirectoryIndex index.php index.html index.htm
 
 RewriteEngine on
 
-# Novacompany Patch
-Options +FollowSymLinks
-
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
