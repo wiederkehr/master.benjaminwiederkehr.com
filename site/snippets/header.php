@@ -18,7 +18,7 @@
   <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon" />
   <!-- ——————————————————————————————————————————————————————————————————— CSS -->
   <?php echo css("assets/vendor/jquery.orbit/orbit-1.2.3.css") ?>
-  <?php echo css("http://benjaminwiederkehr.com/assets/css/style.css") ?>
+  <?php echo css("http://benjaminwiederkehr.com/assets/css/style.1.0.css") ?>
   <?php echo css("assets/css/style.css") ?>
   <?php foreach($page->files()->findByExtension('css') as $css): ?>
   <?php echo css($css->url()) ?>
